@@ -8,7 +8,7 @@ HTML Header:    <link rel='stylesheet' type='text/css' href='https://fonts.googl
 
 <p class="auth-desc">for NaNoGenMo 2015</p>
 
-<p class="source">source code at https://github.com/hugovk/8334</p>
+<p class="source">source code at https://github.com/hugovk/NaNoGenMo-2015/tree/gh-pages/8334</p>
 
 <div class="pagebreak"></div>
 
