@@ -15,12 +15,12 @@ An entry for NaNoGenMo 2015.
 Here's the [source code](https://github.com/hugovk/mucletters/blob/gh-pages/mucletters.py) for my [other NaNoGenMo entry](https://github.com/hugovk/mucletters) phoned in; 50,042 words according to `wc -w`:
 
  * [txt](phoned-mucletters-wrapped.txt)
- * [pdf](phoned-mucletters-wrapped.pdf)
+ * [pdf](https://hugovk.github.io/NaNoGenMo-2015/phonecall/phoned-mucletters-wrapped.pdf)
 
 Here's the program itself put through itself; 37,989 words:
 
  * [txt](phoned-phonecall-wrapped.txt)
- * [pdf](phoned-phonecall-wrapped.pdf)
+ * [pdf](https://hugovk.github.io/NaNoGenMo-2015/phonecall/phoned-phonecall-wrapped.pdf)
 
 Source code:
  * [phonecall.py](phonecall.py)
