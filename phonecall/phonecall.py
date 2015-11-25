@@ -208,7 +208,7 @@ def you_what(out):
             if rhymes:
                 print(choice([
                     "- Did you say {0}?",
-                    "- Whas that {0}?",
+                    "- Was that {0}?",
                     "- Er, did you just say {0}?",
                     "- Hang on, was that {0}?",
                     ]).format(choice(rhymes)))

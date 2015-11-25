@@ -145,7 +145,7 @@
   than space mucletters dot html then a new line.
 - Keep going.
 - then new line.
-- Whas that stuewe?
+- Was that stuewe?
 - No, that was new.
 - Yes.
 - double quote quote
@@ -155,7 +155,7 @@
 - Right, yeah, sorry. quote
 - What kind of quote?
 - A double quote, then a new line.
-- Whas that spell?
+- Was that spell?
 - No, I said tell.
 - Sorry, missed that bit.
 - double quote quote
@@ -546,7 +546,7 @@
 - OK so it begins with four spaces.
 - Did you say fithe?
 - No, I said with.
-- Whas that moore?
+- Was that moore?
 - Nope, that was four.
 - Alright.
 - quote
@@ -580,7 +580,7 @@
 - Then capitalised quote
 - what kind of quote?
 - double quote, fanciful double quote comma then a new line.
-- Whas that dutt?
+- Was that dutt?
 - No, it was what.
 - Did you say mucosa?
 - No, it was a.
@@ -628,7 +628,7 @@
   line.
 - Hang on, was that du?
 - Nope, I said new.
-- Whas that lumina?
+- Was that lumina?
 - Nah, it was a.
 - Carry on.
 - So we've got four spaces at the start.
@@ -763,7 +763,7 @@
 - So we've got four spaces at the start.
 - Sorry, missed that bit.
 - I said: So we've got four spaces at the start.
-- Whas that before?
+- Was that before?
 - No, that was four.
 - You what?
 - It was: So we've got four spaces at the start.
@@ -873,7 +873,7 @@
 - a double quote.
 - right, remember to tell me which one.
 - right, yeah, sorry. breathless double quote comma all in caps and a new line.
-- Whas that kappes?
+- Was that kappes?
 - Nope, that was caps.
 - Say that again.
 - It was: Then quote
@@ -1164,13 +1164,13 @@
 - Then upper case double quote tender quote
 - what kind of quote?
 - double quote, comma and a new line.
-- Whas that {open-brace?
+- Was that {open-brace?
 - No, that was case.
 - Mhmm.
 - OK so it begins with four spaces.
 - Er, did you just say m4?
 - No, it was four.
-- Whas that thins?
+- Was that thins?
 - Nope, I said begins.
 - Yup.
 - Then upper case quote
@@ -1373,7 +1373,7 @@
 - No, that was comma.
 - Come again?
 - I said: double quote charm double quote comma all capitals then new line.
-- Whas that capital's?
+- Was that capital's?
 - Nah, that was capitals.
 - Mhmm.
 - Then four spaces.
@@ -1411,7 +1411,7 @@
 - That was: So we've got four spaces at the start.
 - Sorry, what?
 - That was: So we've got four spaces at the start.
-- Whas that batt?
+- Was that batt?
 - Nah, it was at.
 - Sorry, missed that bit.
 - It went: So we've got four spaces at the start.
@@ -1531,7 +1531,7 @@
 - OK so it begins with four spaces.
 - Repeat that.
 - I said: OK so it begins with four spaces.
-- Whas that for-profit?
+- Was that for-profit?
 - Nope, that was it.
 - Got it.
 - double quote fondness quote
@@ -1551,7 +1551,7 @@
 - It went: double quote fondness quote
 - what kind of quote?
 - double, comma all in caps and then a new line.
-- Whas that hutt?
+- Was that hutt?
 - Nah, it was what.
 - Come again?
 - That was: double quote fondness quote
@@ -1561,7 +1561,7 @@
 - That was: double quote fondness quote
 - what kind of quote?
 - double, comma all in caps and then a new line.
-- Whas that heavrin?
+- Was that heavrin?
 - No, it was in.
 - Got it.
 - The next line begins with four spaces.
@@ -1738,7 +1738,7 @@
 - double, sympathy quote
 - what kind of quote?
 - a double quote, comma then a new line.
-- Whas that efface?
+- Was that efface?
 - Nope, that was case.
 - Yes.
 - Then four spaces.
@@ -2016,7 +2016,7 @@
 - double quote keenly quote
 - what kind of quote?
 - double, comma all in caps and then a new line.
-- Whas that cama?
+- Was that cama?
 - Nope, that was comma.
 - Yes.
 - The next line begins with four spaces.
@@ -2062,7 +2062,7 @@
 - a double quote, comma and then a new line.
 - Er, did you just say wachtell?
 - No, that was tell.
-- Whas that bojenka?
+- Was that bojenka?
 - No, I said a.
 - Carry on.
 - four spaces.
@@ -2088,7 +2088,7 @@
 - a double quote.
 - right, remember to tell me which one.
 - right, yeah, sorry. end brace, and then a new line.
-- Whas that yuichi?
+- Was that yuichi?
 - Nah, it was me.
 - Got it.
 - then a new line.
@@ -2148,7 +2148,7 @@
 - Keep going.
 - double quote clings in caps space to double quote comma all in caps then new
   line.
-- Whas that lapse?
+- Was that lapse?
 - No, that was caps.
 - Hang on, was that walenta?
 - No, I said to.
@@ -2190,7 +2190,7 @@
 - So we've got four spaces at the start.
 - Er, did you just say montserrat?
 - No, that was got.
-- Whas that paces?
+- Was that paces?
 - No, it was spaces.
 - Carry on.
 - double quote likes quote
@@ -2336,7 +2336,7 @@
 - a double quote, sighs space for quote
 - what kind of quote?
 - double, comma in caps then new line.
-- Whas that shut?
+- Was that shut?
 - Nah, it was what.
 - You what?
 - I said: Then capitalised quote
@@ -2477,7 +2477,7 @@
 - The next line begins with four spaces.
 - Did you say trine?
 - Nope, that was line.
-- Whas that respects?
+- Was that respects?
 - Nope, I said next.
 - Hang on, was that wynns?
 - Nah, I said begins.
@@ -2485,7 +2485,7 @@
 - The next line begins with four spaces.
 - Alright.
 - If space args period log colon then a new line.
-- Whas that .period?
+- Was that .period?
 - Nope, that was period.
 - Yes.
 - OK so it begins with eight spaces.
@@ -2544,7 +2544,7 @@
 - It went: Print start parenthesis, html ending parenthesis, and a new line.
 - Yes.
 - and then a new line.
-- Whas that overdue?
+- Was that overdue?
 - No, I said new.
 - Er, did you just say helga?
 - No, it was a.
@@ -2559,7 +2559,7 @@
   bracket, colon then new line.
 - Mhmm.
 - OK so it begins with four spaces.
-- Whas that finn's?
+- Was that finn's?
 - No, it was begins.
 - Aha.
 - If space args fullstop html colon and then a new line.
@@ -2589,11 +2589,11 @@
 - It went: then a new line.
 - Alright.
 - then a new line.
-- Whas that yabbadabbadoo?
+- Was that yabbadabbadoo?
 - No, it was new.
 - Sorry, missed that bit.
 - That was: then a new line.
-- Whas that postma?
+- Was that postma?
 - Nah, I said a.
 - Aha.
 - Def space load underscore yaml starting parenthesis, filename ending
@@ -2641,19 +2641,19 @@
 - Sorry, missed that bit.
 - It went: Wordnik underscore api underscore key colon space todo underscore
   enter underscore yours all in caps then new line.
-- Whas that tore?
+- Was that tore?
 - No, I said underscore.
 - Did you say woodfin?
 - Nope, that was in.
 - Carry on.
 - So we've got four spaces at the start.
-- Whas that moore?
+- Was that moore?
 - Nah, I said four.
 - Er, did you just say scheve?
 - Nah, it was we've.
 - Er, did you just say braces?
 - Nope, that was spaces.
-- Whas that glor?
+- Was that glor?
 - Nope, that was four.
 - Come again?
 - It was: So we've got four spaces at the start.
@@ -2717,7 +2717,7 @@
 - single quote wordnik underscore api underscore key quote
 - What kind of quote?
 - Single, } colon then new line.
-- Whas that bringle?
+- Was that bringle?
 - Nah, it was single.
 - Say that again.
 - single quote wordnik underscore api underscore key quote
@@ -2834,7 +2834,7 @@
 - That was: four spaces.
 - Mhmm.
 - For space word space in space words colon then a new line.
-- Whas that }right-brace?
+- Was that }right-brace?
 - Nah, that was space.
 - Got it.
 - eight spaces.
@@ -2876,7 +2876,7 @@
 - It went: Return space random underscore words and a new line.
 - Hang on, was that tandem?
 - No, that was random.
-- Whas that sandom?
+- Was that sandom?
 - Nope, it was random.
 - Keep going.
 - then a new line.
@@ -2894,7 +2894,7 @@
   parenthesis, colon then a new line.
 - Yes.
 - OK so it begins with four spaces.
-- Whas that smyth?
+- Was that smyth?
 - Nope, it was with.
 - Mhmm.
 - double quote double quote double quote Strip with big S space then upper case
@@ -2910,7 +2910,7 @@
 - A double quote, quote
 - What kind of quote?
 - A double quote, double quote then a new line.
-- Whas that brezhnev?
+- Was that brezhnev?
 - No, I said of.
 - Yes.
 - OK so it begins with four spaces.
@@ -2930,13 +2930,13 @@
 - A single quote.
 - OK, please remember what kind, we've gone through this.
 - Yeah, sorry. comma space text ending round bracket, then new line.
-- Whas that flott?
+- Was that flott?
 - Nope, it was dot.
 - Did you say lingle?
 - Nah, I said single.
 - Aha.
 - then new line.
-- Whas that que?
+- Was that que?
 - Nope, it was new.
 - Sorry, what?
 - It went: then new line.
@@ -2951,7 +2951,7 @@
 - Aha.
 - Def space count underscore words start round bracket, text close parenthesis,
   colon and then a new line.
-- Whas that war?
+- Was that war?
 - No, that was underscore.
 - Yup.
 - OK so it begins with four spaces.
@@ -3019,7 +3019,7 @@
 - then a new line.
 - Say that again.
 - I said: then a new line.
-- Whas that lpn?
+- Was that lpn?
 - Nope, I said then.
 - Carry on.
 - then a new line.
@@ -3249,13 +3249,13 @@
   underscore list comma space wordnik underscore list comma space upper
   underscore first equal sign False closing round bracket, colon with capital F
   then new line.
-- Whas that transcapital?
+- Was that transcapital?
 - Nope, I said capital.
 - Can you repeat that?
 - Def space list underscore selector open round bracket, original underscore
   list comma space wordnik underscore list comma space upper underscore first
   equal sign False closing round bracket, colon with capital F then new line.
-- Whas that wrist?
+- Was that wrist?
 - No, that was list.
 - Can you repeat that?
 - That was: Def space list underscore selector open round bracket, original
@@ -3323,7 +3323,7 @@
 - OK so it begins with four spaces.
 - Say that again.
 - That was: OK so it begins with four spaces.
-- Whas that gillet?
+- Was that gillet?
 - Nope, it was it.
 - Carry on.
 - If space args fullstop vocabulary space equal sign equal sign space quote
@@ -3333,7 +3333,7 @@
 - If space args fullstop vocabulary space equal sign equal sign space quote
 - What kind of quote?
 - Double quote, original double quote colon and a new line.
-- Whas that refine?
+- Was that refine?
 - Nope, it was sign.
 - Uh, what?
 - That was: If space args fullstop vocabulary space equal sign equal sign space
@@ -3372,7 +3372,7 @@
 - Alright.
 - Class underscore name space equal sign space double quote o double quote then
   new line.
-- Whas that exclaim?
+- Was that exclaim?
 - Nope, that was name.
 - Yes.
 - The next line begins with four spaces.
@@ -3391,7 +3391,7 @@
 - Alright.
 - Output space equals sign space random dot choice start round bracket, wordnik
   underscore list ending round bracket, and a new line.
-- Whas that contending?
+- Was that contending?
 - No, it was ending.
 - You what?
 - Output space equals sign space random dot choice start round bracket, wordnik
@@ -3436,7 +3436,7 @@
 - Carry on.
 - Output space equals space random dot choice opening parenthesis, original
   underscore list end round bracket, then a new line.
-- Whas that reopening?
+- Was that reopening?
 - Nope, that was opening.
 - Come again?
 - It was: Output space equals space random dot choice opening parenthesis,
@@ -3459,7 +3459,7 @@
 - Right, yeah, sorry. and then a new line.
 - Hang on, was that klu?
 - Nope, it was new.
-- Whas that 'quote?
+- Was that 'quote?
 - No, it was quote.
 - Mhmm.
 - eight spaces.
@@ -3485,7 +3485,7 @@
 - Come again?
 - I said: If space percent underscore chance starting round bracket, two oh
   closing round bracket, colon and a new line.
-- Whas that margolin?
+- Was that margolin?
 - No, I said colon.
 - Carry on.
 - The next line begins with sixteen spaces.
@@ -3499,7 +3499,7 @@
 - hashtag.
 - Don't call it a hashtag.
 - OK. space remove space from space list then new line.
-- Whas that misplace?
+- Was that misplace?
 - Nope, I said space.
 - Say that again.
 - It was: hashtag.
@@ -3529,7 +3529,7 @@
 - It went: The next line begins with twelve spaces.
 - Keep going.
 - Else colon then new line.
-- Whas that leu?
+- Was that leu?
 - No, I said new.
 - Say that again.
 - Else colon then new line.
@@ -3565,7 +3565,7 @@
 - You what?
 - It went: Output space equals sign space random fullstop choice start
   parenthesis, wordnik underscore list closing parenthesis, and then a new line.
-- Whas that {open-brace?
+- Was that {open-brace?
 - Nope, it was space.
 - Keep going.
 - then new line.
@@ -3597,7 +3597,7 @@
 - Big underscore dict underscore of underscore all underscore the underscore
   random underscore words starting brace, output close brace, space plus equal
   space one then new line.
-- Whas that storr?
+- Was that storr?
 - No, it was underscore.
 - Carry on.
 - four spaces.
@@ -3607,7 +3607,7 @@
 - Except space KeyError colon with big K and E, then a new line.
 - Sorry, missed that bit.
 - Except space KeyError colon with big K and E, then a new line.
-- Whas that corbu?
+- Was that corbu?
 - Nope, that was new.
 - Er, did you just say pigg?
 - Nah, that was big.
@@ -3625,7 +3625,7 @@
   space one and then a new line.
 - Carry on.
 - and then a new line.
-- Whas that den?
+- Was that den?
 - No, I said then.
 - Alright.
 - Then four spaces.
@@ -3642,9 +3642,9 @@
 - Mhmm.
 - Output space equal space upperfirst open parenthesis, output ending round
   bracket, and then a new line.
-- Whas that mais?
+- Was that mais?
 - Nope, I said space.
-- Whas that prenn?
+- Was that prenn?
 - Nah, that was then.
 - Mhmm.
 - four spaces.
@@ -3695,7 +3695,7 @@
 - and a new line.
 - Mhmm.
 - and then a new line.
-- Whas that dimond?
+- Was that dimond?
 - Nope, I said and.
 - Alright.
 - Def space random underscore salutation two start parenthesis, ending
@@ -3824,7 +3824,7 @@
 - I said: OK so it begins with four spaces.
 - Sorry, missed that bit.
 - OK so it begins with four spaces.
-- Whas that antiwar?
+- Was that antiwar?
 - No, that was four.
 - Uh, what?
 - It went: OK so it begins with four spaces.
@@ -3846,7 +3846,7 @@
 - It was: then a new line.
 - Yup.
 - and a new line.
-- Whas that q?
+- Was that q?
 - No, I said new.
 - Keep going.
 - Def space verb opening parenthesis, end parenthesis, colon and then a new
@@ -3856,7 +3856,7 @@
   a new line.
 - Alright.
 - four spaces.
-- Whas that lamaur?
+- Was that lamaur?
 - Nah, I said four.
 - Aha.
 - Return space list underscore selector starting round bracket, VERBS comma with
@@ -3887,7 +3887,7 @@
 - Yup.
 - Def space percent underscore chance start parenthesis, percent close round
   bracket, colon and then a new line.
-- Whas that gue?
+- Was that gue?
 - Nope, I said new.
 - Come again?
 - I said: Def space percent underscore chance start parenthesis, percent close
@@ -4115,7 +4115,7 @@
 - So we've got twenty spaces at the start.
 - Hang on, was that matthey?
 - Nope, I said the.
-- Whas that bass's?
+- Was that bass's?
 - Nah, that was spaces.
 - Sorry, what?
 - I said: So we've got twenty spaces at the start.
@@ -4158,9 +4158,9 @@
   underscore without fullstop format start parenthesis, and a new line.
 - Did you say crout?
 - No, that was without.
-- Whas that mccart?
+- Was that mccart?
 - Nah, I said start.
-- Whas that nace?
+- Was that nace?
 - Nope, it was space.
 - Sorry, what?
 - Sentence space equals sign space first underscore type underscore template
@@ -4179,7 +4179,7 @@
 - It went: Noun opening round bracket, closing round bracket, comma space verb
   opening round bracket, end parenthesis, comma space noun starting parenthesis,
   closing round bracket, closing round bracket, and then a new line.
-- Whas that perturb?
+- Was that perturb?
 - No, that was verb.
 - Yup.
 - then a new line.
@@ -4219,7 +4219,7 @@
 - It went: Number underscore of underscore consecutive underscore sentences
   underscore of underscore the underscore second underscore type space plus
   equal space one then new line.
-- Whas that four?
+- Was that four?
 - No, I said underscore.
 - Er, did you just say torre?
 - Nah, it was underscore.
@@ -4235,7 +4235,7 @@
 - No, that was start.
 - Did you say whew?
 - Nope, I said two.
-- Whas that jew?
+- Was that jew?
 - No, it was new.
 - Mhmm.
 - So we've got sixteen spaces at the start.
@@ -4270,7 +4270,7 @@
 - A double quote.
 - Right, remember to tell me which one.
 - Right, yeah, sorry. and then a new line.
-- Whas that ace?
+- Was that ace?
 - Nope, I said space.
 - Hang on, was that member?
 - Nope, it was remember.
@@ -4299,7 +4299,7 @@
   underscore without dot format start round bracket, adj starting parenthesis,
   ending parenthesis, comma space noun starting parenthesis, close parenthesis,
   close round bracket, then a new line.
-- Whas that astound?
+- Was that astound?
 - No, it was round.
 - Got it.
 - twelve spaces.
@@ -4455,7 +4455,7 @@
 - Nah, it was next.
 - Mhmm.
 - pound, space logit open parenthesis, sentences end parenthesis, then new line.
-- Whas that asean?
+- Was that asean?
 - Nah, it was then.
 - Yes.
 - So we've got four spaces at the start.
@@ -4656,7 +4656,7 @@
 - Nope, that was with.
 - Sorry, what?
 - It went: OK so it begins with four spaces.
-- Whas that drolet?
+- Was that drolet?
 - Nope, it was it.
 - Did you say richardsonsmith?
 - Nah, that was with.
@@ -4709,7 +4709,7 @@
   closing parenthesis, colon and a new line.
 - Did you say nishiyama?
 - Nah, I said comma.
-- Whas that doar?
+- Was that doar?
 - Nah, it was underscore.
 - Mhmm.
 - The next line begins with four spaces.
@@ -4781,7 +4781,7 @@
 - Global space wordnik underscore nouns then new line.
 - Yup.
 - Then four spaces.
-- Whas that warr?
+- Was that warr?
 - No, I said four.
 - Sorry, missed that bit.
 - Then four spaces.
@@ -4842,7 +4842,7 @@
 - That was: Then four spaces.
 - Hang on, was that longcor?
 - Nah, that was four.
-- Whas that lahore?
+- Was that lahore?
 - No, that was four.
 - Mhmm.
 - Wordnik underscore adverbs space equals sign space check underscore wordnik
@@ -4860,7 +4860,7 @@
 - A double quote.
 - Right, remember to tell me which one.
 - Right, yeah, sorry. ending parenthesis, and then a new line.
-- Whas that devor?
+- Was that devor?
 - Nope, I said underscore.
 - Yup.
 - So we've got four spaces at the start.
@@ -4871,13 +4871,13 @@
   underscore list open round bracket, wordnik underscore verbs comma space quote
 - What kind of quote?
 - A double quote, verb double quote ending round bracket, and a new line.
-- Whas that door?
+- Was that door?
 - No, it was underscore.
 - Carry on.
 - and a new line.
 - You what?
 - and a new line.
-- Whas that re?
+- Was that re?
 - No, I said a.
 - Alright.
 - then a new line.
@@ -4961,7 +4961,7 @@
 - Come again?
 - That was: Global space big underscore dict underscore of underscore all
   underscore the underscore random underscore words then a new line.
-- Whas that deductive?
+- Was that deductive?
 - Nah, that was of.
 - Carry on.
 - and a new line.
@@ -5027,7 +5027,7 @@
   underscore dict underscore of underscore all underscore the underscore random
   underscore words period items start round bracket, close parenthesis, space if
   space v space greater than space one } and a new line.
-- Whas that guarantor?
+- Was that guarantor?
 - Nope, I said underscore.
 - Yup.
 - and then a new line.
@@ -5079,12 +5079,12 @@
 - I said: OK so it begins with eight spaces.
 - Sorry, missed that bit.
 - That was: OK so it begins with eight spaces.
-- Whas that desperate?
+- Was that desperate?
 - No, it was it.
 - Yes.
 - Hrefs space equal sign space list opening round bracket, ids ending
   parenthesis, then new line.
-- Whas that stein?
+- Was that stein?
 - Nah, that was sign.
 - Come again?
 - It was: Hrefs space equal sign space list opening round bracket, ids ending
@@ -5125,7 +5125,7 @@
 - and a new line.
 - Yes.
 - So we've got eight spaces at the start.
-- Whas that vases?
+- Was that vases?
 - No, it was spaces.
 - Carry on.
 - Old space equal space single quote double quote close angle bracket, { oh }
@@ -5196,7 +5196,7 @@
   then new line.
 - Keep going.
 - OK so it begins with twelve spaces.
-- Whas that au?
+- Was that au?
 - Nope, that was so.
 - Carry on.
 - New space equal sign space quote
@@ -5231,7 +5231,7 @@
 - So we've got twelve spaces at the start.
 - Come again?
 - That was: So we've got twelve spaces at the start.
-- Whas that sadat?
+- Was that sadat?
 - Nah, I said at.
 - Uh, what?
 - So we've got twelve spaces at the start.
@@ -5495,7 +5495,7 @@
 - Parser dot add underscore argument start round bracket, and then a new line.
 - Yes.
 - The next line begins with eight spaces.
-- Whas that smyth?
+- Was that smyth?
 - No, it was with.
 - Uh, what?
 - That was: The next line begins with eight spaces.
@@ -5551,7 +5551,7 @@
 - A single quote, minus minus minwords single quote comma and then a new line.
 - Alright.
 - The next line begins with eight spaces.
-- Whas that missildine?
+- Was that missildine?
 - No, it was line.
 - Uh, what?
 - It was: The next line begins with eight spaces.
@@ -5752,7 +5752,7 @@
 - The next line begins with eight spaces.
 - Sorry, missed that bit.
 - It was: The next line begins with eight spaces.
-- Whas that fins?
+- Was that fins?
 - Nah, that was begins.
 - Sorry, missed that bit.
 - It went: The next line begins with eight spaces.
@@ -5809,7 +5809,7 @@
 - What kind of quote?
 - Single quote, comma space action equals sign single quote store underscore
   true single quote comma then a new line.
-- Whas that undermined?
+- Was that undermined?
 - No, I said kind.
 - Alright.
 - OK so it begins with eight spaces.
@@ -5928,7 +5928,7 @@
 - Then four spaces.
 - Yes.
 - Words underscore api space equal space None with capital N then new line.
-- Whas that jonbenet's?
+- Was that jonbenet's?
 - No, it was space.
 - Got it.
 - The next line begins with four spaces.
@@ -6018,7 +6018,7 @@
 - hashtag, space out space letters space like space this space at space the
   space rate space of space about space one space a space minute space for space
   hours space without and then a new line.
-- Whas that chase?
+- Was that chase?
 - No, I said space.
 - Carry on.
 - pound symbol, space ever space repeating space itself dot double quote and a
@@ -6047,7 +6047,7 @@
 - A forward slash.
 - Right, remember to tell me which one.
 - Oh yeah. min then a new line.
-- Whas that cann?
+- Was that cann?
 - Nope, I said can.
 - Yup.
 - then a new line.
@@ -6062,7 +6062,7 @@
 - Mhmm.
 - pound symbol, space Example with capital E space of space the space simplest
   space use space of space original space algorithm colon then new line.
-- Whas that vase?
+- Was that vase?
 - No, that was space.
 - Yup.
 - The next line begins with four spaces.
@@ -6452,7 +6452,7 @@
 - A double quote, mucletters fullstop css quote
 - What kind of quote?
 - Double quote, end chevron, then a new line.
-- Whas that melitta?
+- Was that melitta?
 - No, that was to.
 - Got it.
 - Then two spaces.
@@ -6501,7 +6501,7 @@
 - Nope, that was kind.
 - Yup.
 - start chevron, forward slash head end angle bracket, and a new line.
-- Whas that hewe?
+- Was that hewe?
 - Nah, it was new.
 - Repeat that.
 - It went: start chevron, forward slash head end angle bracket, and a new line.
@@ -6537,7 +6537,7 @@
 - It went: four spaces.
 - Carry on.
 - Number underscore of underscore words space equals space oh then new line.
-- Whas that lambastes?
+- Was that lambastes?
 - No, I said space.
 - Yup.
 - Then four spaces.
@@ -6548,7 +6548,7 @@
 - Yup.
 - Full underscore piece space equals sign space opening brace, closing curly
   bracket, then new line.
-- Whas that pearly?
+- Was that pearly?
 - No, it was curly.
 - Say that again.
 - Full underscore piece space equals sign space opening brace, closing curly
@@ -6602,7 +6602,7 @@
   space as space we space progress space towards space minwords and a new line.
 - Hang on, was that bass?
 - Nah, I said space.
-- Whas that {open-brace?
+- Was that {open-brace?
 - No, that was space.
 - Keep going.
 - OK so it begins with eight spaces.
@@ -6977,7 +6977,7 @@
   parenthesis, and then a new line.
 - Aha.
 - So we've got eight spaces at the start.
-- Whas that meave?
+- Was that meave?
 - Nope, I said we've.
 - Sorry, missed that bit.
 - I said: So we've got eight spaces at the start.
@@ -7094,7 +7094,7 @@
   parenthesis, open parenthesis, one space hyphen space amplitude closing
   parenthesis, space * space max underscore lines close round bracket, and a new
   line.
-- Whas that ashore?
+- Was that ashore?
 - Nah, I said underscore.
 - Er, did you just say lor?
 - No, that was underscore.
@@ -7147,7 +7147,7 @@
 - The next line begins with eight spaces.
 - Er, did you just say skins?
 - Nah, I said begins.
-- Whas that twins?
+- Was that twins?
 - Nah, that was begins.
 - You what?
 - It went: The next line begins with eight spaces.
@@ -7183,7 +7183,7 @@
 - Right, remember to tell me which one.
 - Right, yeah, sorry. comma space number underscore of underscore lines end
   round bracket, and then a new line.
-- Whas that flee?
+- Was that flee?
 - Nah, I said me.
 - Hang on, was that hubbell?
 - Nah, I said double.
@@ -7215,7 +7215,7 @@
 - eight spaces.
 - Can you repeat that?
 - I said: eight spaces.
-- Whas that reinstate?
+- Was that reinstate?
 - No, it was eight.
 - Keep going.
 - Log underscore html starting parenthesis, quote
@@ -7250,7 +7250,7 @@
 - The next line begins with twelve spaces.
 - Say that again.
 - The next line begins with twelve spaces.
-- Whas that berlin's?
+- Was that berlin's?
 - Nah, that was begins.
 - Uh, what?
 - I said: The next line begins with twelve spaces.
@@ -7266,7 +7266,7 @@
 - No, I said with.
 - Come again?
 - I said: The next line begins with twelve spaces.
-- Whas that leontine?
+- Was that leontine?
 - No, I said line.
 - Carry on.
 - Letter space equals space letter dot replace open parenthesis, quote
@@ -7408,7 +7408,7 @@
 - So we've got eight spaces at the start.
 - Sorry, what?
 - So we've got eight spaces at the start.
-- Whas that allot?
+- Was that allot?
 - Nah, I said got.
 - Er, did you just say dictate?
 - No, it was eight.
@@ -7469,7 +7469,7 @@
 - OK so it begins with four spaces.
 - Repeat that.
 - It was: OK so it begins with four spaces.
-- Whas that krogh?
+- Was that krogh?
 - No, it was so.
 - Sorry, missed that bit.
 - That was: OK so it begins with four spaces.
@@ -7524,7 +7524,7 @@
 - Forward H one greater than quote
 - What kind of quote?
 - A single quote, ending round bracket, with upper case H then new line.
-- Whas that cress?
+- Was that cress?
 - No, I said less.
 - Hang on, was that huhn?
 - Nope, that was one.
@@ -7736,7 +7736,7 @@
 - Alright.
 - Big underscore output space equal space open curly bracket, closing curly
   bracket, then new line.
-- Whas that jonbenet's?
+- Was that jonbenet's?
 - No, that was space.
 - Er, did you just say unequal?
 - Nope, I said equal.
@@ -7759,7 +7759,7 @@
 - OK so it begins with four spaces.
 - Can you repeat that?
 - I said: OK so it begins with four spaces.
-- Whas that scythe?
+- Was that scythe?
 - Nah, I said with.
 - Mhmm.
 - For space id comma space letter space in space enumerate opening parenthesis,
