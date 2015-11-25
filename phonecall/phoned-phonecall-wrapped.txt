@@ -1,0 +1,5977 @@
+- Hello?
+- Oh, hi, is that Bob?
+- Yeah, who's this?
+- It's Dan.
+- Oh, hi Dan. Did you get my email?
+- Yup, I've got the program for you. But the problem is our network's dead.
+- You're kidding?
+- Nope.
+- But I need that listing now...
+- Sure thing, let me read it out to you.
+- Erm, okay then...
+- Got a pen?
+- Hang on... Yep, go for it.
+- Right, here goes...
+
+- hash symbol, exclamation mark forward slash usr forward slash bin slash
+- What kind of slash?
+- A forward slash.
+- Right, remember to tell me which one.
+- Oh yeah. env space python and a new line.
+- Got it.
+- pound symbol, space encoding colon space utf minus eight then a new line.
+- Hang on, was that heyse?
+- Nope, that was space.
+- Alright.
+- double quote quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- A double quote, then a new line.
+- You what?
+- It was: double quote quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- A double quote, then a new line.
+- Come again?
+- That was: double quote quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- A double quote, then a new line.
+- Keep going.
+- Phone with big P space It with upper case I space In dot with big I and then a
+  new line.
+- Sorry, what?
+- I said: Phone with big P space It with upper case I space In dot with big I
+  and then a new line.
+- Whas that wace?
+- Nah, I said space.
+- Whas that glace?
+- Nah, that was space.
+- Carry on.
+- An with big A space entry space for space National with big N space Novel with
+  upper case N space Generation with capital G space Month with upper case M
+  space starting round bracket, NaNoGenMo close parenthesis, with upper case N,
+  N, G and M, space two oh one five dot and then a new line.
+- Mhmm.
+- The with capital T space plot colon space someone space needs space a space
+  computer space program space but space the space network single quote s space
+  down comma then a new line.
+- Say that again.
+- The with capital T space plot colon space someone space needs space a space
+  computer space program space but space the space network single quote s space
+  down comma then a new line.
+- Keep going.
+- So space a space second space person space has space to space tediously space
+  read space it space out space over space the space telephone fullstop and then
+  a new line.
+- Sorry, missed that bit.
+- It went: So space a space second space person space has space to space
+  tediously space read space it space out space over space the space telephone
+  fullstop and then a new line.
+- Carry on.
+- Hilarity with capital H space ensues fullstop and then a new line.
+- Say that again.
+- Hilarity with capital H space ensues fullstop and then a new line.
+- Can you repeat that?
+- I said: Hilarity with capital H space ensues fullstop and then a new line.
+- Keep going.
+- quote
+- What kind of quote?
+- Double, quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. double quote then a new line.
+- Yes.
+- From space underscore underscore future underscore underscore space import
+  space print underscore function comma space unicode underscore literals and
+  then a new line.
+- Can you repeat that?
+- It went: From space underscore underscore future underscore underscore space
+  import space print underscore function comma space unicode underscore literals
+  and then a new line.
+- Sorry, what?
+- It went: From space underscore underscore future underscore underscore space
+  import space print underscore function comma space unicode underscore literals
+  and then a new line.
+- Yup.
+- Import space argparse then new line.
+- Sorry, what?
+- It was: Import space argparse then new line.
+- Sorry, missed that bit.
+- It was: Import space argparse then new line.
+- Uh, what?
+- I said: Import space argparse then new line.
+- Er, did you just say qu?
+- Nah, I said new.
+- Uh, what?
+- It went: Import space argparse then new line.
+- Carry on.
+- Import space inflect space space hashtag, space pip space install space
+  inflect then new line.
+- Yup.
+- Import space pronouncing space space hash, space pip space install space
+  pronouncing and a new line.
+- Sorry, what?
+- I said: Import space pronouncing space space hash, space pip space install
+  space pronouncing and a new line.
+- Say that again.
+- It went: Import space pronouncing space space hash, space pip space install
+  space pronouncing and a new line.
+- Uh, what?
+- I said: Import space pronouncing space space hash, space pip space install
+  space pronouncing and a new line.
+- Can you repeat that?
+- I said: Import space pronouncing space space hash, space pip space install
+  space pronouncing and a new line.
+- Yes.
+- From space random space import space choice comma space random and a new line.
+- Uh, what?
+- It went: From space random space import space choice comma space random and a
+  new line.
+- Carry on.
+- Import space re and a new line.
+- Come again?
+- It was: Import space re and a new line.
+- Did you say bray?
+- Nope, I said re.
+- Carry on.
+- then a new line.
+- Uh, what?
+- That was: then a new line.
+- Sorry, missed that bit.
+- I said: then a new line.
+- Yup.
+- hash symbol, space from space pprint space import space pprint and a new line.
+- Er, did you just say numb?
+- No, that was from.
+- Alright.
+- then new line.
+- Uh, what?
+- I said: then new line.
+- Carry on.
+- and then a new line.
+- Sorry, what?
+- It was: and then a new line.
+- Repeat that.
+- It went: and then a new line.
+- Sorry, what?
+- I said: and then a new line.
+- Yes.
+- Def space print underscore it opening round bracket, text close parenthesis,
+  colon then a new line.
+- Did you say reopening?
+- No, it was opening.
+- Can you repeat that?
+- It went: Def space print underscore it opening round bracket, text close
+  parenthesis, colon then a new line.
+- Sorry, what?
+- It was: Def space print underscore it opening round bracket, text close
+  parenthesis, colon then a new line.
+- Alright.
+- OK so it begins with four spaces.
+- Hang on, was that door?
+- Nah, it was four.
+- Keep going.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. double quote quote
+- What kind of quote?
+- Double quote, space Windows with upper case W space cmd period exe space
+  cannot space do space Unicode with upper case U space so space encode space
+  first space double quote quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double quote, then new line.
+- Uh, what?
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. double quote quote
+- What kind of quote?
+- Double quote, space Windows with upper case W space cmd period exe space
+  cannot space do space Unicode with upper case U space so space encode space
+  first space double quote quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double quote, then new line.
+- Uh, what?
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. double quote quote
+- What kind of quote?
+- Double quote, space Windows with upper case W space cmd period exe space
+  cannot space do space Unicode with upper case U space so space encode space
+  first space double quote quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double quote, then new line.
+- Repeat that.
+- It was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. double quote quote
+- What kind of quote?
+- Double quote, space Windows with upper case W space cmd period exe space
+  cannot space do space Unicode with upper case U space so space encode space
+  first space double quote quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double quote, then new line.
+- Alright.
+- hash symbol, space space space space space print open parenthesis, text
+  fullstop encode opening parenthesis, quote
+- What kind of quote?
+- Single, utf minus eight single quote end round bracket, ending round bracket,
+  then a new line.
+- Yes.
+- four spaces.
+- Sorry, missed that bit.
+- four spaces.
+- Carry on.
+- Print starting round bracket, text ending round bracket, and a new line.
+- Hang on, was that astound?
+- Nah, I said round.
+- Yes.
+- and a new line.
+- Repeat that.
+- It was: and a new line.
+- Carry on.
+- and a new line.
+- You what?
+- That was: and a new line.
+- Whas that thew?
+- Nah, I said new.
+- Aha.
+- Def space percent underscore chance starting round bracket, percent close
+  parenthesis, colon then new line.
+- Sorry, what?
+- It was: Def space percent underscore chance starting round bracket, percent
+  close parenthesis, colon then new line.
+- Hang on, was that pou?
+- No, I said new.
+- Keep going.
+- Then four spaces.
+- Can you repeat that?
+- I said: Then four spaces.
+- Aha.
+- Return space random opening round bracket, close round bracket, space less
+  than space percent space slash
+- What kind of slash?
+- Forward space one oh zero period zero then a new line.
+- Sorry, missed that bit.
+- It went: Return space random opening round bracket, close round bracket, space
+  less than space percent space slash
+- What kind of slash?
+- Forward space one oh zero period zero then a new line.
+- Er, did you just say heyse?
+- No, I said space.
+- Sorry, what?
+- It went: Return space random opening round bracket, close round bracket, space
+  less than space percent space slash
+- What kind of slash?
+- Forward space one oh zero period zero then a new line.
+- Sorry, missed that bit.
+- That was: Return space random opening round bracket, close round bracket,
+  space less than space percent space slash
+- What kind of slash?
+- Forward space one oh zero period zero then a new line.
+- Can you repeat that?
+- It went: Return space random opening round bracket, close round bracket, space
+  less than space percent space slash
+- What kind of slash?
+- Forward space one oh zero period zero then a new line.
+- Keep going.
+- and a new line.
+- Er, did you just say thickened?
+- Nah, it was and.
+- Sorry, missed that bit.
+- and a new line.
+- Repeat that.
+- I said: and a new line.
+- Can you repeat that?
+- That was: and a new line.
+- Got it.
+- then new line.
+- Uh, what?
+- It was: then new line.
+- Carry on.
+- Def space load underscore file starting round bracket, the underscore filename
+  ending parenthesis, colon then a new line.
+- Say that again.
+- Def space load underscore file starting round bracket, the underscore filename
+  ending parenthesis, colon then a new line.
+- Er, did you just say suh?
+- No, it was the.
+- Uh, what?
+- Def space load underscore file starting round bracket, the underscore filename
+  ending parenthesis, colon then a new line.
+- Carry on.
+- The next line begins with four spaces.
+- You what?
+- I said: The next line begins with four spaces.
+- Did you say vanduyne?
+- No, it was line.
+- Hang on, was that intertwine?
+- No, I said line.
+- Yup.
+- Try colon then new line.
+- Sorry, what?
+- I said: Try colon then new line.
+- Hang on, was that (left-paren?
+- No, I said then.
+- Uh, what?
+- It went: Try colon then new line.
+- Repeat that.
+- It was: Try colon then new line.
+- Come again?
+- Try colon then new line.
+- Keep going.
+- So we've got eight spaces at the start.
+- Hang on, was that katt?
+- Nope, I said at.
+- Mhmm.
+- With space open opening parenthesis, the underscore filename comma space quote
+- What kind of quote?
+- Single, r single quote end parenthesis, space as space f colon then a new
+  line.
+- Whas that embrace?
+- Nah, that was space.
+- Yes.
+- twelve spaces.
+- Can you repeat that?
+- I said: twelve spaces.
+- Got it.
+- Lines space equals space starting curly bracket, then new line.
+- Sorry, missed that bit.
+- I said: Lines space equals space starting curly bracket, then new line.
+- Can you repeat that?
+- It went: Lines space equals space starting curly bracket, then new line.
+- Aha.
+- OK so it begins with sixteen spaces.
+- You what?
+- It was: OK so it begins with sixteen spaces.
+- Hang on, was that finn's?
+- Nah, I said begins.
+- Mhmm.
+- Line fullstop decode open round bracket, quote
+- What kind of quote?
+- Single, utf dash eight single quote end parenthesis, space for space line
+  space in space f closing curly bracket, and a new line.
+- Yup.
+- The next line begins with four spaces.
+- Come again?
+- It went: The next line begins with four spaces.
+- Come again?
+- The next line begins with four spaces.
+- Yup.
+- Except space IOError colon with capital I, O and E, and then a new line.
+- Uh, what?
+- I said: Except space IOError colon with capital I, O and E, and then a new
+  line.
+- Carry on.
+- eight spaces.
+- Sorry, what?
+- I said: eight spaces.
+- Alright.
+- Lines space equals sign space opening curly bracket, ending curly bracket,
+  then new line.
+- Did you say thine?
+- Nah, it was sign.
+- Yes.
+- Then four spaces.
+- Carry on.
+- Return space lines and then a new line.
+- You what?
+- That was: Return space lines and then a new line.
+- Er, did you just say chace?
+- No, I said space.
+- Got it.
+- and then a new line.
+- Can you repeat that?
+- and then a new line.
+- Got it.
+- then a new line.
+- Carry on.
+- Def space start underscore call starting round bracket, close parenthesis,
+  colon then a new line.
+- Repeat that.
+- Def space start underscore call starting round bracket, close parenthesis,
+  colon then a new line.
+- Got it.
+- OK so it begins with four spaces.
+- Can you repeat that?
+- That was: OK so it begins with four spaces.
+- Yup.
+- Print opening round bracket, quote
+- What kind of quote?
+- A double quote, double quote quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. hyphen space Hello question mark, with upper case H and a
+  new line.
+- Uh, what?
+- It was: Print opening round bracket, quote
+- What kind of quote?
+- A double quote, double quote quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. hyphen space Hello question mark, with upper case H and a
+  new line.
+- Aha.
+- minus space Oh comma with big O space hi comma space is space that space Bob
+  question mark, with big B then new line.
+- Sorry, missed that bit.
+- It was: minus space Oh comma with big O space hi comma space is space that
+  space Bob question mark, with big B then new line.
+- Yup.
+- minus space Yeah comma with upper case Y space who quote
+- What kind of quote?
+- Single quote, s space this question mark, then new line.
+- Can you repeat that?
+- It went: minus space Yeah comma with upper case Y space who quote
+- What kind of quote?
+- Single quote, s space this question mark, then new line.
+- Say that again.
+- It went: minus space Yeah comma with upper case Y space who quote
+- What kind of quote?
+- Single quote, s space this question mark, then new line.
+- Carry on.
+- hyphen space It quote
+- What kind of quote?
+- A single quote, s with capital I space Dan dot with upper case D and a new
+  line.
+- Sorry, what?
+- It went: hyphen space It quote
+- What kind of quote?
+- A single quote, s with capital I space Dan dot with upper case D and a new
+  line.
+- Repeat that.
+- hyphen space It quote
+- What kind of quote?
+- A single quote, s with capital I space Dan dot with upper case D and a new
+  line.
+- Did you say clott?
+- No, that was dot.
+- Got it.
+- hyphen space Oh comma with big O space hi space Dan fullstop with upper case D
+  space Did with capital D space you space get space my space email question
+  mark, then a new line.
+- Repeat that.
+- I said: hyphen space Oh comma with big O space hi space Dan fullstop with
+  upper case D space Did with capital D space you space get space my space email
+  question mark, then a new line.
+- Yup.
+- dash space Yup comma with upper case Y space I quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. ve with upper case I space got space the space program space for
+  space you period space But with big B space the space problem space is space
+  our space network quote
+- What kind of quote?
+- Single, s space dead fullstop and then a new line.
+- Er, did you just say erases?
+- Nope, it was is.
+- Say that again.
+- dash space Yup comma with upper case Y space I quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. ve with upper case I space got space the space program space for
+  space you period space But with big B space the space problem space is space
+  our space network quote
+- What kind of quote?
+- Single, s space dead fullstop and then a new line.
+- Can you repeat that?
+- dash space Yup comma with upper case Y space I quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. ve with upper case I space got space the space program space for
+  space you period space But with big B space the space problem space is space
+  our space network quote
+- What kind of quote?
+- Single, s space dead fullstop and then a new line.
+- Come again?
+- That was: dash space Yup comma with upper case Y space I quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. ve with upper case I space got space the space program space for
+  space you period space But with big B space the space problem space is space
+  our space network quote
+- What kind of quote?
+- Single, s space dead fullstop and then a new line.
+- Er, did you just say ten?
+- No, it was then.
+- Can you repeat that?
+- dash space Yup comma with upper case Y space I quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. ve with upper case I space got space the space program space for
+  space you period space But with big B space the space problem space is space
+  our space network quote
+- What kind of quote?
+- Single, s space dead fullstop and then a new line.
+- Can you repeat that?
+- dash space Yup comma with upper case Y space I quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. ve with upper case I space got space the space program space for
+  space you period space But with big B space the space problem space is space
+  our space network quote
+- What kind of quote?
+- Single, s space dead fullstop and then a new line.
+- Got it.
+- minus space You quote
+- What kind of quote?
+- A single quote, re with big Y space kidding question mark, then a new line.
+- Hang on, was that frace?
+- Nah, it was space.
+- Carry on.
+- minus space Nope dot with capital N then a new line.
+- Say that again.
+- It went: minus space Nope dot with capital N then a new line.
+- You what?
+- I said: minus space Nope dot with capital N then a new line.
+- Hang on, was that kehn?
+- Nah, that was then.
+- Repeat that.
+- It went: minus space Nope dot with capital N then a new line.
+- Sorry, what?
+- It was: minus space Nope dot with capital N then a new line.
+- Keep going.
+- dash space But with capital B space i all capitals space need space that space
+  listing space now period period fullstop and then a new line.
+- Did you say capital's?
+- No, it was capitals.
+- Whas that jaquith?
+- Nah, that was with.
+- Whas that displace?
+- Nope, I said space.
+- Got it.
+- hyphen space Sure with upper case S space thing comma space let space me space
+  read space it space out space to space you period then new line.
+- Repeat that.
+- That was: hyphen space Sure with upper case S space thing comma space let
+  space me space read space it space out space to space you period then new
+  line.
+- Aha.
+- minus space Erm comma with big E space okay space then period fullstop dot
+  then new line.
+- Carry on.
+- dash space Got with big G space a space pen question mark, and a new line.
+- You what?
+- dash space Got with big G space a space pen question mark, and a new line.
+- Come again?
+- It went: dash space Got with big G space a space pen question mark, and a new
+  line.
+- Keep going.
+- dash space Hang with upper case H space on fullstop period period space Yep
+  comma with capital Y space go space for space it dot and a new line.
+- Sorry, missed that bit.
+- That was: dash space Hang with upper case H space on fullstop period period
+  space Yep comma with capital Y space go space for space it dot and a new line.
+- Er, did you just say smith?
+- No, that was with.
+- Sorry, what?
+- It was: dash space Hang with upper case H space on fullstop period period
+  space Yep comma with capital Y space go space for space it dot and a new line.
+- Keep going.
+- hyphen space Right comma with upper case R space here space goes dot dot
+  period then new line.
+- Say that again.
+- It went: hyphen space Right comma with upper case R space here space goes dot
+  dot period then new line.
+- Sorry, what?
+- It went: hyphen space Right comma with upper case R space here space goes dot
+  dot period then new line.
+- Yes.
+- double quote quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. close parenthesis, then new line.
+- Uh, what?
+- double quote quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. close parenthesis, then new line.
+- Aha.
+- and then a new line.
+- Er, did you just say richland?
+- No, that was and.
+- Aha.
+- then new line.
+- Er, did you just say benne?
+- Nah, that was then.
+- Carry on.
+- Def space end underscore call open round bracket, end round bracket, colon
+  then new line.
+- Mhmm.
+- The next line begins with four spaces.
+- Can you repeat that?
+- I said: The next line begins with four spaces.
+- Mhmm.
+- Print open parenthesis, quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double, double quote dash space ok comma all capitals space that quote
+- What kind of quote?
+- Single, s space the space end dot and then a new line.
+- Say that again.
+- It was: Print open parenthesis, quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double, double quote dash space ok comma all capitals space that quote
+- What kind of quote?
+- Single, s space the space end dot and then a new line.
+- Sorry, what?
+- Print open parenthesis, quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double, double quote dash space ok comma all capitals space that quote
+- What kind of quote?
+- Single, s space the space end dot and then a new line.
+- Did you say yokohama?
+- Nah, I said comma.
+- Say that again.
+- It was: Print open parenthesis, quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- Double, double quote dash space ok comma all capitals space that quote
+- What kind of quote?
+- Single, s space the space end dot and then a new line.
+- Got it.
+- hyphen space That single quote s with big T space it question mark, then a new
+  line.
+- Sorry, missed that bit.
+- It was: hyphen space That single quote s with big T space it question mark,
+  then a new line.
+- You what?
+- That was: hyphen space That single quote s with big T space it question mark,
+  then a new line.
+- Er, did you just say salmen?
+- Nah, it was then.
+- Carry on.
+- minus space Yup period with big Y then a new line.
+- You what?
+- It was: minus space Yup period with big Y then a new line.
+- Sorry, what?
+- That was: minus space Yup period with big Y then a new line.
+- Sorry, missed that bit.
+- I said: minus space Yup period with big Y then a new line.
+- Sorry, missed that bit.
+- minus space Yup period with big Y then a new line.
+- Whas that myriad?
+- Nope, I said period.
+- Sorry, what?
+- It went: minus space Yup period with big Y then a new line.
+- Yup.
+- hyphen space All with upper case A space of space it question mark, then a new
+  line.
+- Say that again.
+- It was: hyphen space All with upper case A space of space it question mark,
+  then a new line.
+- Carry on.
+- hyphen space Yes fullstop with big Y then a new line.
+- You what?
+- It went: hyphen space Yes fullstop with big Y then a new line.
+- Aha.
+- minus space Phew comma with capital P space what space a space relief
+  exclamation mark space I single quote m with big I space not space going space
+  to space do space that space again exclamation mark then a new line.
+- Sorry, missed that bit.
+- That was: minus space Phew comma with capital P space what space a space
+  relief exclamation mark space I single quote m with big I space not space
+  going space to space do space that space again exclamation mark then a new
+  line.
+- Got it.
+- minus space Yeah comma with big Y space me space neither dot then new line.
+- Whas that displace?
+- Nah, it was space.
+- Mhmm.
+- dash space Alright comma with big A space thanks space again comma space see
+  space you space later space Dan dot with upper case D then new line.
+- Say that again.
+- dash space Alright comma with big A space thanks space again comma space see
+  space you space later space Dan dot with upper case D then new line.
+- Yup.
+- minus space Cheers with big C space Bob comma with big B space bye space then
+  exclamation mark then new line.
+- Alright.
+- minus space But with capital B space then i all in caps space might space call
+  space you space back space if space it space doesn quote
+- What kind of quote?
+- Single, t space compile period space Is with capital I space that space ok
+  space Dan question mark, with big D space Dan dot dot fullstop question mark,
+  question mark, with upper case D space Dan question mark, exclamation mark
+  with capital D space Dan exclamation mark with upper case D space dan
+  exclamation mark all capitals then new line.
+- Whas that scupper?
+- Nope, that was upper.
+- Got it.
+- double quote double quote double quote closing round bracket, and a new line.
+- Did you say trouble?
+- Nope, it was double.
+- Er, did you just say nosing?
+- No, that was closing.
+- Sorry, missed that bit.
+- It was: double quote double quote double quote closing round bracket, and a
+  new line.
+- Carry on.
+- and a new line.
+- Hang on, was that optioned?
+- Nope, that was and.
+- Carry on.
+- then a new line.
+- Say that again.
+- I said: then a new line.
+- Carry on.
+- Def space leading underscore spaces starting round bracket, line closing
+  parenthesis, colon and then a new line.
+- Sorry, what?
+- I said: Def space leading underscore spaces starting round bracket, line
+  closing parenthesis, colon and then a new line.
+- Mhmm.
+- So we've got four spaces at the start.
+- Sorry, what?
+- So we've got four spaces at the start.
+- Carry on.
+- Line space equal sign space line fullstop rstrip start round bracket, quote
+- What kind of quote?
+- Double, slash
+- What kind of slash?
+- Backward slash n double quote close parenthesis, then a new line.
+- Aha.
+- The next line begins with four spaces.
+- Er, did you just say schorr?
+- Nope, I said four.
+- Got it.
+- Return space len open parenthesis, line close round bracket, space dash space
+  len open parenthesis, line period lstrip opening round bracket, close round
+  bracket, ending round bracket, and then a new line.
+- Hang on, was that koeppen?
+- Nope, it was open.
+- Sorry, missed that bit.
+- That was: Return space len open parenthesis, line close round bracket, space
+  dash space len open parenthesis, line period lstrip opening round bracket,
+  close round bracket, ending round bracket, and then a new line.
+- Er, did you just say sue?
+- No, I said new.
+- Carry on.
+- then new line.
+- Aha.
+- and then a new line.
+- Come again?
+- and then a new line.
+- Can you repeat that?
+- That was: and then a new line.
+- Yup.
+- Then upper case start underscore templates space equal space open curly
+  bracket, then a new line.
+- Uh, what?
+- It went: Then upper case start underscore templates space equal space open
+  curly bracket, then a new line.
+- Got it.
+- The next line begins with four spaces.
+- Sorry, what?
+- It went: The next line begins with four spaces.
+- Yup.
+- double quote ok in caps space so space it space begins space with space { oh }
+  space { one } dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and then a new line.
+- You what?
+- It went: double quote ok in caps space so space it space begins space with
+  space { oh } space { one } dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and then a new line.
+- Yup.
+- So we've got four spaces at the start.
+- You what?
+- It was: So we've got four spaces at the start.
+- You what?
+- I said: So we've got four spaces at the start.
+- Carry on.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. The with upper case T space next space line space begins
+  space with space { oh } space { one } fullstop quote
+- What kind of quote?
+- A double quote, comma then new line.
+- Whas that towe?
+- Nah, that was oh.
+- Mhmm.
+- OK so it begins with four spaces.
+- You what?
+- It went: OK so it begins with four spaces.
+- Carry on.
+- double quote So with capital S space we single quote ve space got space { oh }
+  space { one } space at space the space start dot quote
+- What kind of quote?
+- Double quote, comma then new line.
+- Sorry, what?
+- That was: double quote So with capital S space we single quote ve space got
+  space { oh } space { one } space at space the space start dot quote
+- What kind of quote?
+- Double quote, comma then new line.
+- Alright.
+- So we've got four spaces at the start.
+- Sorry, missed that bit.
+- So we've got four spaces at the start.
+- Can you repeat that?
+- So we've got four spaces at the start.
+- Hang on, was that timor?
+- No, it was four.
+- Er, did you just say foxworthy?
+- No, that was the.
+- Yup.
+- quote
+- What kind of quote?
+- Double, Then with upper case T space { zero } space { one } dot quote
+- What kind of quote?
+- Double, comma then new line.
+- Er, did you just say rehn?
+- Nah, I said then.
+- Can you repeat that?
+- quote
+- What kind of quote?
+- Double, Then with upper case T space { zero } space { one } dot quote
+- What kind of quote?
+- Double, comma then new line.
+- Repeat that.
+- I said: quote
+- What kind of quote?
+- Double, Then with upper case T space { zero } space { one } dot quote
+- What kind of quote?
+- Double, comma then new line.
+- Can you repeat that?
+- That was: quote
+- What kind of quote?
+- Double, Then with upper case T space { zero } space { one } dot quote
+- What kind of quote?
+- Double, comma then new line.
+- Yes.
+- Then four spaces.
+- Sorry, what?
+- I said: Then four spaces.
+- Got it.
+- double quote { oh } space { one } period double quote comma and a new line.
+- Sorry, what?
+- That was: double quote { oh } space { one } period double quote comma and a
+  new line.
+- Mhmm.
+- closing brace, and then a new line.
+- Say that again.
+- That was: closing brace, and then a new line.
+- Mhmm.
+- then a new line.
+- Er, did you just say shoe?
+- Nah, it was new.
+- You what?
+- That was: then a new line.
+- Sorry, what?
+- I said: then a new line.
+- Got it.
+- Uh underscore what in caps space equals space open brace, then a new line.
+- Uh, what?
+- It went: Uh underscore what in caps space equals space open brace, then a new
+  line.
+- Whas that knapp's?
+- Nah, that was caps.
+- Carry on.
+- Then four spaces.
+- Uh, what?
+- I said: Then four spaces.
+- Aha.
+- double quote dash space Uh comma with upper case U space what question mark,
+  quote
+- What kind of quote?
+- Double, comma then a new line.
+- Did you say trash?
+- No, that was dash.
+- Say that again.
+- That was: double quote dash space Uh comma with upper case U space what
+  question mark, quote
+- What kind of quote?
+- Double, comma then a new line.
+- Yes.
+- OK so it begins with four spaces.
+- Come again?
+- I said: OK so it begins with four spaces.
+- Mhmm.
+- quote
+- What kind of quote?
+- A double quote, hyphen space Sorry comma with big S space missed space that
+  space bit period double quote comma and then a new line.
+- Say that again.
+- I said: quote
+- What kind of quote?
+- A double quote, hyphen space Sorry comma with big S space missed space that
+  space bit period double quote comma and then a new line.
+- Come again?
+- It was: quote
+- What kind of quote?
+- A double quote, hyphen space Sorry comma with big S space missed space that
+  space bit period double quote comma and then a new line.
+- Got it.
+- The next line begins with four spaces.
+- Er, did you just say b'rith?
+- No, it was with.
+- Did you say smyth?
+- Nope, I said with.
+- Repeat that.
+- The next line begins with four spaces.
+- Say that again.
+- The next line begins with four spaces.
+- Hang on, was that espectador?
+- Nope, that was four.
+- Can you repeat that?
+- That was: The next line begins with four spaces.
+- Sorry, what?
+- The next line begins with four spaces.
+- Sorry, what?
+- That was: The next line begins with four spaces.
+- Got it.
+- quote
+- What kind of quote?
+- Double quote, hyphen space Can with big C space you space repeat space that
+  question mark, double quote comma and a new line.
+- You what?
+- It went: quote
+- What kind of quote?
+- Double quote, hyphen space Can with big C space you space repeat space that
+  question mark, double quote comma and a new line.
+- Keep going.
+- So we've got four spaces at the start.
+- Did you say eave?
+- Nope, it was we've.
+- Can you repeat that?
+- It went: So we've got four spaces at the start.
+- You what?
+- It was: So we've got four spaces at the start.
+- Keep going.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space You with upper case Y space what question
+  mark, double quote comma and a new line.
+- Sorry, missed that bit.
+- It went: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space You with upper case Y space what question
+  mark, double quote comma and a new line.
+- Uh, what?
+- I said: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space You with upper case Y space what question
+  mark, double quote comma and a new line.
+- Er, did you just say unkind?
+- No, it was kind.
+- Keep going.
+- OK so it begins with four spaces.
+- Come again?
+- It went: OK so it begins with four spaces.
+- Yes.
+- double quote dash space Come with capital C space again question mark, quote
+- What kind of quote?
+- Double, comma then a new line.
+- Repeat that.
+- double quote dash space Come with capital C space again question mark, quote
+- What kind of quote?
+- Double, comma then a new line.
+- Alright.
+- OK so it begins with four spaces.
+- Uh, what?
+- OK so it begins with four spaces.
+- Hang on, was that berlin's?
+- Nah, it was begins.
+- Carry on.
+- quote
+- What kind of quote?
+- Double quote, hyphen space Repeat with big R space that period double quote
+  comma and then a new line.
+- Got it.
+- OK so it begins with four spaces.
+- Sorry, missed that bit.
+- I said: OK so it begins with four spaces.
+- Come again?
+- I said: OK so it begins with four spaces.
+- Whas that boer?
+- Nope, it was four.
+- Mhmm.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Say with capital S space that space again dot
+  double quote comma then a new line.
+- Sorry, missed that bit.
+- It went: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Say with capital S space that space again dot
+  double quote comma then a new line.
+- Alright.
+- four spaces.
+- Sorry, missed that bit.
+- It was: four spaces.
+- Yes.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Sorry comma with big S space what question
+  mark, quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Hang on, was that wen?
+- Nope, it was then.
+- You what?
+- That was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Sorry comma with big S space what question
+  mark, quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Repeat that.
+- I said: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Sorry comma with big S space what question
+  mark, quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Er, did you just say september?
+- No, I said remember.
+- You what?
+- It was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Sorry comma with big S space what question
+  mark, quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Aha.
+- closing curly bracket, and then a new line.
+- Say that again.
+- I said: closing curly bracket, and then a new line.
+- Repeat that.
+- That was: closing curly bracket, and then a new line.
+- Er, did you just say morland?
+- Nah, that was and.
+- Carry on.
+- then new line.
+- Can you repeat that?
+- It was: then new line.
+- Got it.
+- Got underscore it in caps space equal sign space opening brace, and a new
+  line.
+- Can you repeat that?
+- It was: Got underscore it in caps space equal sign space opening brace, and a
+  new line.
+- Come again?
+- It was: Got underscore it in caps space equal sign space opening brace, and a
+  new line.
+- Mhmm.
+- OK so it begins with four spaces.
+- Did you say whitsitt?
+- Nope, I said it.
+- Got it.
+- quote
+- What kind of quote?
+- Double quote, hyphen space Got with upper case G space it period double quote
+  comma then a new line.
+- Come again?
+- I said: quote
+- What kind of quote?
+- Double quote, hyphen space Got with upper case G space it period double quote
+  comma then a new line.
+- Keep going.
+- OK so it begins with four spaces.
+- Repeat that.
+- I said: OK so it begins with four spaces.
+- Can you repeat that?
+- I said: OK so it begins with four spaces.
+- Yes.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. dash space Yup period quote
+- What kind of quote?
+- Double, comma with upper case Y and then a new line.
+- Sorry, what?
+- It went: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. dash space Yup period quote
+- What kind of quote?
+- Double, comma with upper case Y and then a new line.
+- Can you repeat that?
+- It was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. dash space Yup period quote
+- What kind of quote?
+- Double, comma with upper case Y and then a new line.
+- Alright.
+- So we've got four spaces at the start.
+- Did you say hat?
+- Nah, that was at.
+- Repeat that.
+- So we've got four spaces at the start.
+- Can you repeat that?
+- It was: So we've got four spaces at the start.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote, hyphen space Mhmm period quote
+- What kind of quote?
+- Double, comma with upper case M and a new line.
+- Keep going.
+- OK so it begins with four spaces.
+- Can you repeat that?
+- OK so it begins with four spaces.
+- Did you say grins?
+- Nah, it was begins.
+- Got it.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Alright period double quote comma with upper
+  case A and then a new line.
+- Come again?
+- I said: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space Alright period double quote comma with upper
+  case A and then a new line.
+- Alright.
+- The next line begins with four spaces.
+- Whas that before?
+- Nah, it was four.
+- Alright.
+- quote
+- What kind of quote?
+- Double, hyphen space Aha dot double quote comma with upper case A and a new
+  line.
+- Come again?
+- It went: quote
+- What kind of quote?
+- Double, hyphen space Aha dot double quote comma with upper case A and a new
+  line.
+- Say that again.
+- I said: quote
+- What kind of quote?
+- Double, hyphen space Aha dot double quote comma with upper case A and a new
+  line.
+- Alright.
+- The next line begins with four spaces.
+- Got it.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. hyphen space Yes period quote
+- What kind of quote?
+- Double, comma with capital Y then new line.
+- Sorry, what?
+- It went: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. hyphen space Yes period quote
+- What kind of quote?
+- Double, comma with capital Y then new line.
+- Sorry, missed that bit.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. hyphen space Yes period quote
+- What kind of quote?
+- Double, comma with capital Y then new line.
+- Hang on, was that folta?
+- Nah, that was to.
+- Mhmm.
+- So we've got four spaces at the start.
+- Sorry, what?
+- It went: So we've got four spaces at the start.
+- Uh, what?
+- I said: So we've got four spaces at the start.
+- Keep going.
+- double quote minus space Carry with capital C space on period double quote
+  comma then a new line.
+- Whas that blyth?
+- Nah, that was with.
+- Carry on.
+- So we've got four spaces at the start.
+- Hang on, was that schrodt?
+- No, it was got.
+- Sorry, what?
+- I said: So we've got four spaces at the start.
+- Yes.
+- quote
+- What kind of quote?
+- Double, dash space Keep with capital K space going fullstop quote
+- What kind of quote?
+- Double, comma and a new line.
+- Sorry, what?
+- It went: quote
+- What kind of quote?
+- Double, dash space Keep with capital K space going fullstop quote
+- What kind of quote?
+- Double, comma and a new line.
+- Sorry, missed that bit.
+- That was: quote
+- What kind of quote?
+- Double, dash space Keep with capital K space going fullstop quote
+- What kind of quote?
+- Double, comma and a new line.
+- Keep going.
+- end brace, and a new line.
+- Carry on.
+- and a new line.
+- Can you repeat that?
+- It went: and a new line.
+- Did you say mirabella?
+- Nah, it was a.
+- Repeat that.
+- I said: and a new line.
+- Keep going.
+- Then capitalised i underscore said space equals space starting curly bracket,
+  then new line.
+- Uh, what?
+- Then capitalised i underscore said space equals space starting curly bracket,
+  then new line.
+- Got it.
+- So we've got four spaces at the start.
+- Mhmm.
+- double quote minus space i in caps space said colon space quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- You what?
+- It went: double quote minus space i in caps space said colon space quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Yes.
+- Then four spaces.
+- Sorry, missed that bit.
+- I said: Then four spaces.
+- Mhmm.
+- double quote minus space That with big T space was colon space double quote
+  comma then new line.
+- Uh, what?
+- It was: double quote minus space That with big T space was colon space double
+  quote comma then new line.
+- Carry on.
+- So we've got four spaces at the start.
+- Alright.
+- double quote dash space double quote comma then new line.
+- Yup.
+- Then four spaces.
+- Say that again.
+- That was: Then four spaces.
+- Yes.
+- quote
+- What kind of quote?
+- A double quote, dash space It with upper case I space went colon space quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Repeat that.
+- It went: quote
+- What kind of quote?
+- A double quote, dash space It with upper case I space went colon space quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Mhmm.
+- OK so it begins with four spaces.
+- Can you repeat that?
+- It was: OK so it begins with four spaces.
+- Keep going.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space It with upper case I space was colon space
+  quote
+- What kind of quote?
+- A double quote, comma then new line.
+- Er, did you just say baratta?
+- Nope, that was to.
+- Repeat that.
+- I said: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus space It with upper case I space was colon space
+  quote
+- What kind of quote?
+- A double quote, comma then new line.
+- Yup.
+- end brace, and then a new line.
+- You what?
+- I said: end brace, and then a new line.
+- Come again?
+- It went: end brace, and then a new line.
+- Aha.
+- and then a new line.
+- Say that again.
+- It went: and then a new line.
+- Uh, what?
+- That was: and then a new line.
+- Keep going.
+- and a new line.
+- Can you repeat that?
+- I said: and a new line.
+- Yes.
+- Then upper case start space equals space starting curly bracket, double quote
+  open space double quote comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. opening space double quote comma space quote
+- What kind of quote?
+- A double quote, start space double quote comma space double quote starting
+  space double quote end brace, and then a new line.
+- Sorry, what?
+- It was: Then upper case start space equals space starting curly bracket,
+  double quote open space double quote comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. opening space double quote comma space quote
+- What kind of quote?
+- A double quote, start space double quote comma space double quote starting
+  space double quote end brace, and then a new line.
+- Got it.
+- Close all capitals space equal sign space start curly bracket, quote
+- What kind of quote?
+- Double quote, close space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- Double, closing space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. end space double quote comma space double quote ending
+  space quote
+- What kind of quote?
+- A double quote, end curly bracket, and a new line.
+- Er, did you just say debase?
+- Nah, it was space.
+- Aha.
+- Parenthesis all capitals space equal space start curly bracket, quote
+- What kind of quote?
+- Double, round space bracket comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- A double quote, parenthesis comma quote
+- What kind of quote?
+- Double quote, closing curly bracket, then new line.
+- Hang on, was that wined?
+- Nah, it was kind.
+- Sorry, what?
+- It was: Parenthesis all capitals space equal space start curly bracket, quote
+- What kind of quote?
+- Double, round space bracket comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- A double quote, parenthesis comma quote
+- What kind of quote?
+- Double quote, closing curly bracket, then new line.
+- Sorry, missed that bit.
+- It went: Parenthesis all capitals space equal space start curly bracket, quote
+- What kind of quote?
+- Double, round space bracket comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- A double quote, parenthesis comma quote
+- What kind of quote?
+- Double quote, closing curly bracket, then new line.
+- Can you repeat that?
+- It went: Parenthesis all capitals space equal space start curly bracket, quote
+- What kind of quote?
+- Double, round space bracket comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- A double quote, parenthesis comma quote
+- What kind of quote?
+- Double quote, closing curly bracket, then new line.
+- Carry on.
+- Brace all capitals space equal space start curly bracket, quote
+- What kind of quote?
+- Double, curly space bracket comma double quote comma space double quote brace
+  comma double quote closing curly bracket, and a new line.
+- Did you say brearley?
+- No, I said curly.
+- Yes.
+- Then upper case chevron space equal sign space start brace, quote
+- What kind of quote?
+- Double quote, angle space bracket comma quote
+- What kind of quote?
+- Double, comma space double quote chevron comma quote
+- What kind of quote?
+- Double quote, ending curly bracket, then new line.
+- Carry on.
+- then a new line.
+- Come again?
+- It went: then a new line.
+- Say that again.
+- That was: then a new line.
+- Mhmm.
+- Single underscore quote all capitals space equals sign space start curly
+  bracket, and a new line.
+- Did you say incase?
+- Nope, I said space.
+- Come again?
+- It went: Single underscore quote all capitals space equals sign space start
+  curly bracket, and a new line.
+- Er, did you just say agrosiand?
+- Nah, it was and.
+- Hang on, was that capital's?
+- Nope, I said capitals.
+- Alright.
+- four spaces.
+- Come again?
+- It was: four spaces.
+- Mhmm.
+- double quote single space quote double quote comma then new line.
+- Hang on, was that hirayama?
+- No, that was comma.
+- Er, did you just say trouble?
+- Nah, that was double.
+- Mhmm.
+- So we've got four spaces at the start.
+- Sorry, what?
+- It went: So we've got four spaces at the start.
+- Carry on.
+- quote
+- What kind of quote?
+- Double quote, single space quote quote
+- What kind of quote?
+- Double, comma and then a new line.
+- You what?
+- I said: quote
+- What kind of quote?
+- Double quote, single space quote quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Can you repeat that?
+- It was: quote
+- What kind of quote?
+- Double quote, single space quote quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Come again?
+- It was: quote
+- What kind of quote?
+- Double quote, single space quote quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Mhmm.
+- Then four spaces.
+- You what?
+- It went: Then four spaces.
+- Got it.
+- quote
+- What kind of quote?
+- Double quote, single space quote quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Say that again.
+- I said: quote
+- What kind of quote?
+- Double quote, single space quote quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Yes.
+- four spaces.
+- Got it.
+- double quote quote backward slash n hyphen space What with capital W space
+  kind space of space quote question mark, backward slash n dash space Single
+  comma double quote comma with upper case S and a new line.
+- You what?
+- That was: double quote quote backward slash n hyphen space What with capital W
+  space kind space of space quote question mark, backward slash n dash space
+  Single comma double quote comma with upper case S and a new line.
+- Aha.
+- four spaces.
+- Hang on, was that lenore?
+- Nah, that was four.
+- Did you say postwar?
+- Nah, it was four.
+- Er, did you just say galore?
+- Nah, it was four.
+- Keep going.
+- quote
+- What kind of quote?
+- Double quote, quote slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space quote
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n minus space Single with capital S space quote comma double quote
+  comma then a new line.
+- Sorry, what?
+- quote
+- What kind of quote?
+- Double quote, quote slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space quote
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n minus space Single with capital S space quote comma double quote
+  comma then a new line.
+- Aha.
+- Then four spaces.
+- Er, did you just say drawer?
+- Nope, that was four.
+- Yup.
+- quote
+- What kind of quote?
+- Double, quote slash
+- What kind of slash?
+- Manchester to London, n hyphen space What with big W space kind space of space
+  quote question mark, backward slash n dash space then capitalised a space
+  single space quote comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and a new line.
+- Can you repeat that?
+- I said: quote
+- What kind of quote?
+- Double, quote slash
+- What kind of slash?
+- Manchester to London, n hyphen space What with big W space kind space of space
+  quote question mark, backward slash n dash space then capitalised a space
+  single space quote comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and a new line.
+- Sorry, what?
+- It was: quote
+- What kind of quote?
+- Double, quote slash
+- What kind of slash?
+- Manchester to London, n hyphen space What with big W space kind space of space
+  quote question mark, backward slash n dash space then capitalised a space
+  single space quote comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and a new line.
+- Repeat that.
+- It went: quote
+- What kind of quote?
+- Double, quote slash
+- What kind of slash?
+- Manchester to London, n hyphen space What with big W space kind space of space
+  quote question mark, backward slash n dash space then capitalised a space
+  single space quote comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and a new line.
+- Got it.
+- four spaces.
+- Uh, what?
+- four spaces.
+- Carry on.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. quote slash
+- What kind of slash?
+- A backward slash, n minus space What with upper case W space kind space of
+  space quote question mark, backward slash n hyphen space then upper case a
+  space single space quote period backward slash n hyphen space then ok comma
+  all in caps space please space remember space quote
+- What kind of quote?
+- A double quote, then new line.
+- Repeat that.
+- I said: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. quote slash
+- What kind of slash?
+- A backward slash, n minus space What with upper case W space kind space of
+  space quote question mark, backward slash n hyphen space then upper case a
+  space single space quote period backward slash n hyphen space then ok comma
+  all in caps space please space remember space quote
+- What kind of quote?
+- A double quote, then new line.
+- Er, did you just say bibee?
+- No, I said me.
+- Yes.
+- So we've got four spaces at the start.
+- Uh, what?
+- That was: So we've got four spaces at the start.
+- Whas that inshore?
+- No, it was four.
+- Hang on, was that forgot?
+- No, I said got.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. what space kind comma space we single quote ve space gone
+  space through space this fullstop slash
+- What kind of slash?
+- Backward n minus space Yeah comma with capital Y space sorry fullstop double
+  quote comma and a new line.
+- Say that again.
+- I said: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. what space kind comma space we single quote ve space gone
+  space through space this fullstop slash
+- What kind of slash?
+- Backward n minus space Yeah comma with capital Y space sorry fullstop double
+  quote comma and a new line.
+- Come again?
+- It went: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. what space kind comma space we single quote ve space gone
+  space through space this fullstop slash
+- What kind of slash?
+- Backward n minus space Yeah comma with capital Y space sorry fullstop double
+  quote comma and a new line.
+- Can you repeat that?
+- That was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. what space kind comma space we single quote ve space gone
+  space through space this fullstop slash
+- What kind of slash?
+- Backward n minus space Yeah comma with capital Y space sorry fullstop double
+  quote comma and a new line.
+- Come again?
+- That was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. what space kind comma space we single quote ve space gone
+  space through space this fullstop slash
+- What kind of slash?
+- Backward n minus space Yeah comma with capital Y space sorry fullstop double
+  quote comma and a new line.
+- Alright.
+- close brace, then a new line.
+- Come again?
+- close brace, then a new line.
+- Mhmm.
+- Double underscore quote in caps space equal sign space starting brace, then a
+  new line.
+- Alright.
+- Then four spaces.
+- Can you repeat that?
+- It went: Then four spaces.
+- Sorry, missed that bit.
+- I said: Then four spaces.
+- Repeat that.
+- It went: Then four spaces.
+- Come again?
+- I said: Then four spaces.
+- Yup.
+- quote
+- What kind of quote?
+- Double, double space quote double quote comma and a new line.
+- You what?
+- quote
+- What kind of quote?
+- Double, double space quote double quote comma and a new line.
+- Come again?
+- I said: quote
+- What kind of quote?
+- Double, double space quote double quote comma and a new line.
+- Can you repeat that?
+- I said: quote
+- What kind of quote?
+- Double, double space quote double quote comma and a new line.
+- Yup.
+- So we've got four spaces at the start.
+- Say that again.
+- It was: So we've got four spaces at the start.
+- Yes.
+- double quote double space quote double quote comma then a new line.
+- Say that again.
+- That was: double quote double space quote double quote comma then a new line.
+- Whas that promote?
+- No, that was quote.
+- Aha.
+- four spaces.
+- Sorry, missed that bit.
+- It was: four spaces.
+- Repeat that.
+- It went: four spaces.
+- Alright.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. double space quote quote
+- What kind of quote?
+- A double quote, comma and then a new line.
+- Got it.
+- The next line begins with four spaces.
+- Uh, what?
+- It was: The next line begins with four spaces.
+- Did you say roehr?
+- Nope, I said four.
+- Yes.
+- quote
+- What kind of quote?
+- Double, quote backward slash n minus space What with upper case W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- Backward slash n hyphen space Double comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma with big D then a new line.
+- Can you repeat that?
+- I said: quote
+- What kind of quote?
+- Double, quote backward slash n minus space What with upper case W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- Backward slash n hyphen space Double comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma with big D then a new line.
+- Aha.
+- So we've got four spaces at the start.
+- Er, did you just say patt?
+- Nah, that was at.
+- Aha.
+- quote
+- What kind of quote?
+- Double quote, quote backward slash n hyphen space What with capital W space
+  kind space of space quote question mark, backward slash n dash space Double
+  with big D space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Sorry, missed that bit.
+- I said: quote
+- What kind of quote?
+- Double quote, quote backward slash n hyphen space What with capital W space
+  kind space of space quote question mark, backward slash n dash space Double
+  with big D space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Uh, what?
+- It was: quote
+- What kind of quote?
+- Double quote, quote backward slash n hyphen space What with capital W space
+  kind space of space quote question mark, backward slash n dash space Double
+  with big D space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Got it.
+- Then four spaces.
+- Did you say moore?
+- Nah, that was four.
+- Repeat that.
+- That was: Then four spaces.
+- Uh, what?
+- I said: Then four spaces.
+- Yes.
+- quote
+- What kind of quote?
+- Double, quote backward slash n hyphen space What with capital W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- A backward slash, n dash space a in caps space double space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Come again?
+- I said: quote
+- What kind of quote?
+- Double, quote backward slash n hyphen space What with capital W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- A backward slash, n dash space a in caps space double space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Repeat that.
+- quote
+- What kind of quote?
+- Double, quote backward slash n hyphen space What with capital W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- A backward slash, n dash space a in caps space double space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Repeat that.
+- It was: quote
+- What kind of quote?
+- Double, quote backward slash n hyphen space What with capital W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- A backward slash, n dash space a in caps space double space quote comma quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Keep going.
+- So we've got four spaces at the start.
+- Can you repeat that?
+- That was: So we've got four spaces at the start.
+- Carry on.
+- double quote quote backward slash n minus space What with capital W space kind
+  space of space quote question mark, slash
+- What kind of slash?
+- Backward n dash space then capitalised a space double space quote fullstop
+  slash
+- What kind of slash?
+- A backward slash, n dash space Right comma with upper case R space remember
+  space to space quote
+- What kind of quote?
+- Double, then new line.
+- Can you repeat that?
+- I said: double quote quote backward slash n minus space What with capital W
+  space kind space of space quote question mark, slash
+- What kind of slash?
+- Backward n dash space then capitalised a space double space quote fullstop
+  slash
+- What kind of slash?
+- A backward slash, n dash space Right comma with upper case R space remember
+  space to space quote
+- What kind of quote?
+- Double, then new line.
+- Carry on.
+- OK so it begins with four spaces.
+- Did you say obit?
+- No, that was it.
+- Mhmm.
+- quote
+- What kind of quote?
+- A double quote, tell space me space which space one fullstop backward slash n
+  hyphen space Right comma with big R space yeah comma space sorry period double
+  quote comma then new line.
+- Say that again.
+- quote
+- What kind of quote?
+- A double quote, tell space me space which space one fullstop backward slash n
+  hyphen space Right comma with big R space yeah comma space sorry period double
+  quote comma then new line.
+- Yes.
+- end brace, and a new line.
+- Aha.
+- Forward underscore slash all capitals space equals sign space open curly
+  bracket, then a new line.
+- Mhmm.
+- four spaces.
+- Got it.
+- double quote forward space slash quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Sorry, what?
+- That was: double quote forward space slash quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Repeat that.
+- That was: double quote forward space slash quote
+- What kind of quote?
+- Double, comma and then a new line.
+- Mhmm.
+- The next line begins with four spaces.
+- Hang on, was that begin's?
+- Nope, that was begins.
+- Got it.
+- double quote forward space slash double quote comma and a new line.
+- Hang on, was that bubble?
+- Nah, that was double.
+- Aha.
+- So we've got four spaces at the start.
+- Sorry, what?
+- That was: So we've got four spaces at the start.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote, forward space slash double quote comma and then a new line.
+- Sorry, what?
+- It went: quote
+- What kind of quote?
+- A double quote, forward space slash double quote comma and then a new line.
+- Mhmm.
+- OK so it begins with four spaces.
+- Come again?
+- It was: OK so it begins with four spaces.
+- Er, did you just say chargit?
+- No, I said it.
+- Carry on.
+- quote
+- What kind of quote?
+- A double quote, slash slash
+- What kind of slash?
+- A backward slash, n dash space What with big W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- Backward slash n minus space Forward double quote comma with upper case F and
+  then a new line.
+- Hang on, was that leu?
+- No, I said new.
+- Come again?
+- That was: quote
+- What kind of quote?
+- A double quote, slash slash
+- What kind of slash?
+- A backward slash, n dash space What with big W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- Backward slash n minus space Forward double quote comma with upper case F and
+  then a new line.
+- Carry on.
+- four spaces.
+- You what?
+- That was: four spaces.
+- Sorry, missed that bit.
+- It went: four spaces.
+- Sorry, missed that bit.
+- I said: four spaces.
+- Say that again.
+- That was: four spaces.
+- Keep going.
+- double quote slash slash
+- What kind of slash?
+- Backward slash n hyphen space What with upper case W space kind space of space
+  slash question mark, slash
+- What kind of slash?
+- A backward slash, n hyphen space Forward with upper case F space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Say that again.
+- It was: double quote slash slash
+- What kind of slash?
+- Backward slash n hyphen space What with upper case W space kind space of space
+  slash question mark, slash
+- What kind of slash?
+- A backward slash, n hyphen space Forward with upper case F space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Er, did you just say beauchesne?
+- Nope, that was then.
+- Hang on, was that phen?
+- No, I said n.
+- Yup.
+- So we've got four spaces at the start.
+- You what?
+- It went: So we've got four spaces at the start.
+- Can you repeat that?
+- So we've got four spaces at the start.
+- Can you repeat that?
+- So we've got four spaces at the start.
+- Aha.
+- double quote slash slash
+- What kind of slash?
+- Backward n minus space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- Manchester to London, n hyphen space a all capitals space forward space slash
+  comma double quote comma then new line.
+- Whas that (paren?
+- Nope, I said n.
+- Uh, what?
+- That was: double quote slash slash
+- What kind of slash?
+- Backward n minus space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- Manchester to London, n hyphen space a all capitals space forward space slash
+  comma double quote comma then new line.
+- Keep going.
+- The next line begins with four spaces.
+- Sorry, missed that bit.
+- That was: The next line begins with four spaces.
+- Alright.
+- quote
+- What kind of quote?
+- Double quote, slash backward slash n hyphen space What with big W space kind
+  space of space slash question mark, backward slash n hyphen space Newcastle
+  with upper case N space to space Bristol comma double quote comma with big B
+  and a new line.
+- Mhmm.
+- OK so it begins with four spaces.
+- Come again?
+- I said: OK so it begins with four spaces.
+- Yup.
+- double quote slash slash
+- What kind of slash?
+- A backward slash, n hyphen space What with capital W space kind space of space
+  slash question mark, backward slash n minus space a all in caps space forward
+  space slash comma double quote comma then new line.
+- Uh, what?
+- double quote slash slash
+- What kind of slash?
+- A backward slash, n hyphen space What with capital W space kind space of space
+  slash question mark, backward slash n minus space a all in caps space forward
+  space slash comma double quote comma then new line.
+- Can you repeat that?
+- It went: double quote slash slash
+- What kind of slash?
+- A backward slash, n hyphen space What with capital W space kind space of space
+  slash question mark, backward slash n minus space a all in caps space forward
+  space slash comma double quote comma then new line.
+- Er, did you just say crapps?
+- Nah, I said caps.
+- Sorry, what?
+- double quote slash slash
+- What kind of slash?
+- A backward slash, n hyphen space What with capital W space kind space of space
+  slash question mark, backward slash n minus space a all in caps space forward
+  space slash comma double quote comma then new line.
+- Got it.
+- OK so it begins with four spaces.
+- Er, did you just say drawer?
+- Nah, I said four.
+- Yup.
+- double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space What with upper case W space kind space of space slash
+  question mark, backward slash n dash space a all capitals space forward space
+  slash fullstop slash
+- What kind of slash?
+- Manchester to London, n hyphen space Right comma with big R space remember
+  space to space quote
+- What kind of quote?
+- A double quote, and then a new line.
+- Uh, what?
+- I said: double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space What with upper case W space kind space of space slash
+  question mark, backward slash n dash space a all capitals space forward space
+  slash fullstop slash
+- What kind of slash?
+- Manchester to London, n hyphen space Right comma with big R space remember
+  space to space quote
+- What kind of quote?
+- A double quote, and then a new line.
+- Yes.
+- Then four spaces.
+- You what?
+- Then four spaces.
+- Uh, what?
+- I said: Then four spaces.
+- Sorry, what?
+- It went: Then four spaces.
+- Say that again.
+- It was: Then four spaces.
+- Can you repeat that?
+- I said: Then four spaces.
+- Say that again.
+- I said: Then four spaces.
+- Can you repeat that?
+- Then four spaces.
+- Whas that guarantor?
+- Nope, it was four.
+- You what?
+- Then four spaces.
+- Yup.
+- double quote tell space me space which space one fullstop backward slash n
+  minus space Oh with big O space yeah period quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Keep going.
+- ending brace, then new line.
+- Er, did you just say descending?
+- Nah, that was ending.
+- Got it.
+- Then backward underscore slash all in caps space equal sign space start curly
+  bracket, and a new line.
+- Carry on.
+- The next line begins with four spaces.
+- Uh, what?
+- I said: The next line begins with four spaces.
+- Got it.
+- double quote backward space slash quote
+- What kind of quote?
+- Double quote, comma then new line.
+- Keep going.
+- four spaces.
+- Keep going.
+- double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Sorry, missed that bit.
+- I said: double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Repeat that.
+- It was: double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Sorry, missed that bit.
+- It went: double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Repeat that.
+- double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Er, did you just say hubble?
+- Nope, that was double.
+- Whas that colgrove?
+- Nah, that was of.
+- Can you repeat that?
+- That was: double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Repeat that.
+- It went: double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Sorry, what?
+- double quote backward space slash quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Yes.
+- OK so it begins with four spaces.
+- Say that again.
+- That was: OK so it begins with four spaces.
+- Repeat that.
+- OK so it begins with four spaces.
+- Say that again.
+- I said: OK so it begins with four spaces.
+- Alright.
+- quote
+- What kind of quote?
+- Double, backward space slash double quote comma and a new line.
+- Whas that tunica?
+- Nah, it was a.
+- Yes.
+- OK so it begins with four spaces.
+- Uh, what?
+- It went: OK so it begins with four spaces.
+- Aha.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. slash slash
+- What kind of slash?
+- Manchester to London, n minus space What with big W space kind space of space
+  slash question mark, slash
+- What kind of slash?
+- Manchester to London, n dash space Backward quote
+- What kind of quote?
+- Double, comma with big B then a new line.
+- Got it.
+- four spaces.
+- Repeat that.
+- That was: four spaces.
+- Alright.
+- double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Can you repeat that?
+- double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Whas that heyse?
+- Nope, I said space.
+- Sorry, missed that bit.
+- That was: double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Repeat that.
+- That was: double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- You what?
+- It was: double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Uh, what?
+- It was: double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Can you repeat that?
+- double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Say that again.
+- It went: double quote slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space Backward with big B space slash double quote comma then
+  new line.
+- Got it.
+- Then four spaces.
+- Yes.
+- double quote slash backward slash n minus space What with capital W space kind
+  space of space slash question mark, slash
+- What kind of slash?
+- A backward slash, n dash space a all capitals space backward space slash comma
+  double quote comma and then a new line.
+- Whas that gama?
+- Nah, that was comma.
+- Sorry, missed that bit.
+- I said: double quote slash backward slash n minus space What with capital W
+  space kind space of space slash question mark, slash
+- What kind of slash?
+- A backward slash, n dash space a all capitals space backward space slash comma
+  double quote comma and then a new line.
+- Carry on.
+- four spaces.
+- Sorry, missed that bit.
+- I said: four spaces.
+- Repeat that.
+- I said: four spaces.
+- Aha.
+- quote
+- What kind of quote?
+- Double quote, slash slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n minus space What with upper case W space kind space of space slash
+  question mark, slash
+- What kind of slash?
+- Backward slash n hyphen space Manchester with big M space to space London
+  comma double quote comma with capital L then a new line.
+- Yes.
+- OK so it begins with four spaces.
+- You what?
+- It went: OK so it begins with four spaces.
+- Aha.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. slash backward slash n dash space What with capital W
+  space kind space of space slash question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n dash space then capitalised a space backward space slash comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and then a new line.
+- Carry on.
+- four spaces.
+- Sorry, missed that bit.
+- four spaces.
+- Er, did you just say d'or?
+- Nah, I said four.
+- Hang on, was that ashore?
+- No, I said four.
+- Yes.
+- quote
+- What kind of quote?
+- Double quote, slash backward slash n minus space What with capital W space
+  kind space of space slash question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space then upper case a space backward space slash dot slash
+- What kind of slash?
+- Backward slash n hyphen space then capitalised ok comma space remember space
+  double quote and then a new line.
+- Can you repeat that?
+- quote
+- What kind of quote?
+- Double quote, slash backward slash n minus space What with capital W space
+  kind space of space slash question mark, slash
+- What kind of slash?
+- A backward slash.
+- OK, remember there's a difference.
+- Righto. n hyphen space then upper case a space backward space slash dot slash
+- What kind of slash?
+- Backward slash n hyphen space then capitalised ok comma space remember space
+  double quote and then a new line.
+- Mhmm.
+- So we've got four spaces at the start.
+- You what?
+- So we've got four spaces at the start.
+- Yup.
+- double quote there quote
+- What kind of quote?
+- A single quote, s space a space difference period backward slash n dash space
+  Righto fullstop double quote comma with big R then a new line.
+- Sorry, missed that bit.
+- It was: double quote there quote
+- What kind of quote?
+- A single quote, s space a space difference period backward slash n dash space
+  Righto fullstop double quote comma with big R then a new line.
+- Yes.
+- end curly bracket, then new line.
+- Sorry, missed that bit.
+- It went: end curly bracket, then new line.
+- Can you repeat that?
+- It went: end curly bracket, then new line.
+- Got it.
+- and then a new line.
+- Repeat that.
+- It went: and then a new line.
+- Keep going.
+- then new line.
+- Come again?
+- It was: then new line.
+- Carry on.
+- Def space spacify start round bracket, text close round bracket, colon and
+  then a new line.
+- Whas that kekst?
+- No, that was text.
+- Did you say drowned?
+- Nah, that was round.
+- Aha.
+- Then four spaces.
+- Keep going.
+- Return space quote
+- What kind of quote?
+- Double, space double quote space plus space text space plus space double quote
+  space double quote and then a new line.
+- Come again?
+- That was: Return space quote
+- What kind of quote?
+- Double, space double quote space plus space text space plus space double quote
+  space double quote and then a new line.
+- Hang on, was that trace?
+- Nope, I said space.
+- Got it.
+- then a new line.
+- Uh, what?
+- then a new line.
+- Carry on.
+- then new line.
+- Hang on, was that menn?
+- No, it was then.
+- Got it.
+- Def space remove underscore duplicate underscore spaces open parenthesis, text
+  end parenthesis, colon and a new line.
+- Can you repeat that?
+- That was: Def space remove underscore duplicate underscore spaces open
+  parenthesis, text end parenthesis, colon and a new line.
+- Say that again.
+- That was: Def space remove underscore duplicate underscore spaces open
+  parenthesis, text end parenthesis, colon and a new line.
+- Er, did you just say favazza?
+- No, that was a.
+- Aha.
+- Then four spaces.
+- You what?
+- It was: Then four spaces.
+- Keep going.
+- Return space re fullstop sub opening round bracket, single quote space plus
+  quote
+- What kind of quote?
+- Single quote, comma space single quote space quote
+- What kind of quote?
+- Single, comma space text closing parenthesis, then a new line.
+- Uh, what?
+- It was: Return space re fullstop sub opening round bracket, single quote space
+  plus quote
+- What kind of quote?
+- Single quote, comma space single quote space quote
+- What kind of quote?
+- Single, comma space text closing parenthesis, then a new line.
+- Mhmm.
+- then a new line.
+- Did you say lire?
+- Nope, that was a.
+- Mhmm.
+- and then a new line.
+- Hang on, was that columbia?
+- Nah, I said a.
+- Can you repeat that?
+- It was: and then a new line.
+- Say that again.
+- It went: and then a new line.
+- Alright.
+- Def space upper underscore case underscore letters starting parenthesis, text
+  closing parenthesis, colon then new line.
+- Say that again.
+- It was: Def space upper underscore case underscore letters starting
+  parenthesis, text closing parenthesis, colon then new line.
+- Yup.
+- The next line begins with four spaces.
+- Er, did you just say writhe?
+- Nope, that was with.
+- Mhmm.
+- L space equals sign space starting brace, char space for space char space in
+  space text space if space char period isupper start round bracket, ending
+  parenthesis, ending brace, then new line.
+- Alright.
+- OK so it begins with four spaces.
+- Aha.
+- If space len opening parenthesis, l ending round bracket, space equals sign
+  equals sign space oh colon and a new line.
+- Alright.
+- Then eight spaces.
+- Yes.
+- Return space None with big N and a new line.
+- Come again?
+- That was: Return space None with big N and a new line.
+- Mhmm.
+- The next line begins with four spaces.
+- Repeat that.
+- It was: The next line begins with four spaces.
+- Hang on, was that meckes?
+- No, it was next.
+- Got it.
+- Elif space len opening parenthesis, l close parenthesis, space equals equal
+  space one colon then new line.
+- Uh, what?
+- It went: Elif space len opening parenthesis, l close parenthesis, space equals
+  equal space one colon then new line.
+- Keep going.
+- eight spaces.
+- Did you say conflate?
+- Nope, I said eight.
+- Come again?
+- It was: eight spaces.
+- Come again?
+- That was: eight spaces.
+- Yup.
+- Return space quote
+- What kind of quote?
+- Double, quote
+- What kind of quote?
+- A double quote, period join open round bracket, l closing parenthesis, then
+  new line.
+- Sorry, missed that bit.
+- It was: Return space quote
+- What kind of quote?
+- Double, quote
+- What kind of quote?
+- A double quote, period join open round bracket, l closing parenthesis, then
+  new line.
+- Repeat that.
+- It was: Return space quote
+- What kind of quote?
+- Double, quote
+- What kind of quote?
+- A double quote, period join open round bracket, l closing parenthesis, then
+  new line.
+- Carry on.
+- Then four spaces.
+- Can you repeat that?
+- Then four spaces.
+- Yes.
+- Else colon then new line.
+- Repeat that.
+- That was: Else colon then new line.
+- Did you say den?
+- No, that was then.
+- Er, did you just say shampoo?
+- Nope, I said new.
+- You what?
+- I said: Else colon then new line.
+- Repeat that.
+- I said: Else colon then new line.
+- Yup.
+- So we've got eight spaces at the start.
+- Er, did you just say disbelieve?
+- Nah, that was we've.
+- Can you repeat that?
+- It went: So we've got eight spaces at the start.
+- Say that again.
+- That was: So we've got eight spaces at the start.
+- Sorry, missed that bit.
+- It went: So we've got eight spaces at the start.
+- Aha.
+- Return space quote
+- What kind of quote?
+- Double, comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. period join start round bracket, l open brace, colon dash
+  one end brace, end round bracket, space plus space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. space and space double quote space plus space l starting
+  brace, hyphen one closing brace, space plus space double quote comma space
+  double quote then a new line.
+- Say that again.
+- It was: Return space quote
+- What kind of quote?
+- Double, comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. period join start round bracket, l open brace, colon dash
+  one end brace, end round bracket, space plus space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. space and space double quote space plus space l starting
+  brace, hyphen one closing brace, space plus space double quote comma space
+  double quote then a new line.
+- Aha.
+- and then a new line.
+- Say that again.
+- It went: and then a new line.
+- Aha.
+- then new line.
+- Whas that anew?
+- Nope, I said new.
+- Mhmm.
+- Def space upcase underscore first underscore letter open parenthesis, text end
+  parenthesis, colon then new line.
+- Sorry, missed that bit.
+- Def space upcase underscore first underscore letter open parenthesis, text end
+  parenthesis, colon then new line.
+- Whas that fen?
+- Nah, I said then.
+- Uh, what?
+- That was: Def space upcase underscore first underscore letter open
+  parenthesis, text end parenthesis, colon then new line.
+- Alright.
+- OK so it begins with four spaces.
+- Say that again.
+- That was: OK so it begins with four spaces.
+- Yes.
+- Return space text starting brace, zero closing brace, dot upper open
+  parenthesis, closing parenthesis, space plus space text starting brace, one
+  colon ending curly bracket, and then a new line.
+- Hang on, was that base?
+- No, that was space.
+- Carry on.
+- then new line.
+- Can you repeat that?
+- It went: then new line.
+- Did you say wrenn?
+- Nope, it was then.
+- Sorry, what?
+- then new line.
+- Carry on.
+- and a new line.
+- Repeat that.
+- It went: and a new line.
+- Uh, what?
+- I said: and a new line.
+- Yes.
+- Def space fullstop underscore at underscore end starting parenthesis, text
+  close round bracket, colon and then a new line.
+- Uh, what?
+- That was: Def space fullstop underscore at underscore end starting
+  parenthesis, text close round bracket, colon and then a new line.
+- Come again?
+- Def space fullstop underscore at underscore end starting parenthesis, text
+  close round bracket, colon and then a new line.
+- Aha.
+- So we've got four spaces at the start.
+- Come again?
+- That was: So we've got four spaces at the start.
+- Say that again.
+- It was: So we've got four spaces at the start.
+- Uh, what?
+- It went: So we've got four spaces at the start.
+- Keep going.
+- Text space equals space text period rstrip starting round bracket, double
+  quote space double quote closing round bracket, and then a new line.
+- Er, did you just say myriad?
+- No, that was period.
+- Repeat that.
+- It went: Text space equals space text period rstrip starting round bracket,
+  double quote space double quote closing round bracket, and then a new line.
+- Yes.
+- Then four spaces.
+- Keep going.
+- If space text starting curly bracket, colon dash one end curly bracket, space
+  equal equals space double quote dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then new line.
+- Sorry, what?
+- If space text starting curly bracket, colon dash one end curly bracket, space
+  equal equals space double quote dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then new line.
+- Got it.
+- Then eight spaces.
+- Repeat that.
+- It was: Then eight spaces.
+- Mhmm.
+- Return space text and a new line.
+- Can you repeat that?
+- It was: Return space text and a new line.
+- Carry on.
+- Then four spaces.
+- Yup.
+- Else colon and a new line.
+- Sorry, what?
+- It was: Else colon and a new line.
+- Yes.
+- Then eight spaces.
+- Say that again.
+- Then eight spaces.
+- Repeat that.
+- I said: Then eight spaces.
+- Yup.
+- Return space text space plus space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then a new line.
+- Sorry, missed that bit.
+- Return space text space plus space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then a new line.
+- Uh, what?
+- I said: Return space text space plus space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then a new line.
+- Alright.
+- then a new line.
+- Uh, what?
+- I said: then a new line.
+- Got it.
+- then a new line.
+- You what?
+- It was: then a new line.
+- Whas that wen?
+- No, I said then.
+- Got it.
+- Def space you underscore what start round bracket, out end parenthesis, colon
+  then new line.
+- Hang on, was that sheng-fen?
+- No, it was then.
+- Keep going.
+- four spaces.
+- Whas that senor?
+- No, I said four.
+- Say that again.
+- I said: four spaces.
+- Got it.
+- quote
+- What kind of quote?
+- Double, double quote quote
+- What kind of quote?
+- Double, Chance with big C space of space not space hearing space it quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- Double, quote
+- What kind of quote?
+- Double, then new line.
+- You what?
+- That was: quote
+- What kind of quote?
+- Double, double quote quote
+- What kind of quote?
+- Double, Chance with big C space of space not space hearing space it quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- Double, quote
+- What kind of quote?
+- Double, then new line.
+- Yes.
+- OK so it begins with four spaces.
+- Did you say comeau?
+- Nope, I said so.
+- Mhmm.
+- If space out colon and a new line.
+- Come again?
+- That was: If space out colon and a new line.
+- Sorry, missed that bit.
+- If space out colon and a new line.
+- Aha.
+- Then eight spaces.
+- Aha.
+- If space percent underscore chance starting parenthesis, five zero ending
+  round bracket, colon and then a new line.
+- Uh, what?
+- That was: If space percent underscore chance starting parenthesis, five zero
+  ending round bracket, colon and then a new line.
+- Carry on.
+- twelve spaces.
+- Can you repeat that?
+- That was: twelve spaces.
+- Did you say delve?
+- Nope, it was twelve.
+- Can you repeat that?
+- twelve spaces.
+- Can you repeat that?
+- twelve spaces.
+- Sorry, missed that bit.
+- That was: twelve spaces.
+- Hang on, was that delve?
+- Nope, that was twelve.
+- Carry on.
+- Print open round bracket, choice start parenthesis, UH underscore WHAT ending
+  parenthesis, closing round bracket, with upper case U, H, W, H, A and T, then
+  a new line.
+- Say that again.
+- It was: Print open round bracket, choice start parenthesis, UH underscore WHAT
+  ending parenthesis, closing round bracket, with upper case U, H, W, H, A and
+  T, then a new line.
+- You what?
+- It went: Print open round bracket, choice start parenthesis, UH underscore
+  WHAT ending parenthesis, closing round bracket, with upper case U, H, W, H, A
+  and T, then a new line.
+- Say that again.
+- That was: Print open round bracket, choice start parenthesis, UH underscore
+  WHAT ending parenthesis, closing round bracket, with upper case U, H, W, H, A
+  and T, then a new line.
+- Repeat that.
+- It went: Print open round bracket, choice start parenthesis, UH underscore
+  WHAT ending parenthesis, closing round bracket, with upper case U, H, W, H, A
+  and T, then a new line.
+- Can you repeat that?
+- It was: Print open round bracket, choice start parenthesis, UH underscore WHAT
+  ending parenthesis, closing round bracket, with upper case U, H, W, H, A and
+  T, then a new line.
+- Come again?
+- That was: Print open round bracket, choice start parenthesis, UH underscore
+  WHAT ending parenthesis, closing round bracket, with upper case U, H, W, H, A
+  and T, then a new line.
+- Mhmm.
+- So we've got twelve spaces at the start.
+- Uh, what?
+- I said: So we've got twelve spaces at the start.
+- You what?
+- It went: So we've got twelve spaces at the start.
+- Yes.
+- Print underscore it open parenthesis, choice opening round bracket, I
+  underscore SAID closing round bracket, with capital I, S, A, I and D, space
+  plus space out dot lstrip open parenthesis, quote
+- What kind of quote?
+- A double quote, dash space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. end parenthesis, closing parenthesis, then new line.
+- Come again?
+- Print underscore it open parenthesis, choice opening round bracket, I
+  underscore SAID closing round bracket, with capital I, S, A, I and D, space
+  plus space out dot lstrip open parenthesis, quote
+- What kind of quote?
+- A double quote, dash space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. end parenthesis, closing parenthesis, then new line.
+- Keep going.
+- eight spaces.
+- Sorry, what?
+- I said: eight spaces.
+- Got it.
+- Elif space percent underscore chance start round bracket, six zero end
+  parenthesis, colon then new line.
+- Did you say piero?
+- Nope, I said zero.
+- Keep going.
+- twelve spaces.
+- Uh, what?
+- It went: twelve spaces.
+- Carry on.
+- pound symbol, space Ask with upper case A space again space about space a
+  space word and then a new line.
+- Keep going.
+- The next line begins with twelve spaces.
+- Hang on, was that gwinn's?
+- Nah, I said begins.
+- Hang on, was that meckes?
+- Nah, that was next.
+- Did you say shelve?
+- Nope, I said twelve.
+- Carry on.
+- Missed space equals space choice start round bracket, out fullstop split
+  starting round bracket, ending round bracket, ending parenthesis, and then a
+  new line.
+- Uh, what?
+- It was: Missed space equals space choice start round bracket, out fullstop
+  split starting round bracket, ending round bracket, ending parenthesis, and
+  then a new line.
+- Carry on.
+- So we've got twelve spaces at the start.
+- Hang on, was that klugh?
+- Nope, that was the.
+- Er, did you just say seaworthy?
+- No, that was the.
+- Alright.
+- Rhymes space equals space pronouncing dot rhymes start round bracket, missed
+  close round bracket, then a new line.
+- Say that again.
+- I said: Rhymes space equals space pronouncing dot rhymes start round bracket,
+  missed close round bracket, then a new line.
+- Sorry, missed that bit.
+- It went: Rhymes space equals space pronouncing dot rhymes start round bracket,
+  missed close round bracket, then a new line.
+- Aha.
+- twelve spaces.
+- Did you say delve?
+- No, it was twelve.
+- Er, did you just say shelve?
+- Nope, it was twelve.
+- Alright.
+- If space rhymes colon then new line.
+- You what?
+- If space rhymes colon then new line.
+- Got it.
+- The next line begins with sixteen spaces.
+- Say that again.
+- The next line begins with sixteen spaces.
+- Alright.
+- Print opening round bracket, choice starting parenthesis, opening brace, and
+  then a new line.
+- Sorry, missed that bit.
+- That was: Print opening round bracket, choice starting parenthesis, opening
+  brace, and then a new line.
+- Repeat that.
+- That was: Print opening round bracket, choice starting parenthesis, opening
+  brace, and then a new line.
+- Can you repeat that?
+- I said: Print opening round bracket, choice starting parenthesis, opening
+  brace, and then a new line.
+- Sorry, what?
+- It went: Print opening round bracket, choice starting parenthesis, opening
+  brace, and then a new line.
+- Keep going.
+- twenty spaces.
+- Whas that innocenti?
+- Nope, I said twenty.
+- Sorry, what?
+- I said: twenty spaces.
+- Aha.
+- quote
+- What kind of quote?
+- A double quote, dash space Did with capital D space you space say space { zero
+  } question mark, quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma then new line.
+- Yup.
+- OK so it begins with twenty spaces.
+- Whas that m'bow?
+- No, I said so.
+- Come again?
+- I said: OK so it begins with twenty spaces.
+- Sorry, missed that bit.
+- That was: OK so it begins with twenty spaces.
+- Got it.
+- double quote dash space Whas with upper case W space that space { oh }
+  question mark, quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Repeat that.
+- I said: double quote dash space Whas with upper case W space that space { oh }
+  question mark, quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Keep going.
+- So we've got twenty spaces at the start.
+- Whas that szott?
+- No, it was got.
+- Alright.
+- quote
+- What kind of quote?
+- Double, dash space Er comma with big E space did space you space just space
+  say space { zero } question mark, double quote comma then new line.
+- Repeat that.
+- quote
+- What kind of quote?
+- Double, dash space Er comma with big E space did space you space just space
+  say space { zero } question mark, double quote comma then new line.
+- Yup.
+- So we've got twenty spaces at the start.
+- Repeat that.
+- So we've got twenty spaces at the start.
+- Carry on.
+- quote
+- What kind of quote?
+- A double quote, dash space Hang with capital H space on comma space was space
+  that space { oh } question mark, double quote comma and a new line.
+- Repeat that.
+- It was: quote
+- What kind of quote?
+- A double quote, dash space Hang with capital H space on comma space was space
+  that space { oh } question mark, double quote comma and a new line.
+- Carry on.
+- twenty spaces.
+- Hang on, was that clemente?
+- No, that was twenty.
+- Repeat that.
+- It was: twenty spaces.
+- Aha.
+- close curly bracket, end round bracket, period format starting round bracket,
+  choice opening parenthesis, rhymes close parenthesis, ending round bracket,
+  ending round bracket, and then a new line.
+- Yes.
+- So we've got sixteen spaces at the start.
+- Er, did you just say ertha?
+- Nope, that was the.
+- Yup.
+- Print starting parenthesis, choice open parenthesis, opening curly bracket,
+  and then a new line.
+- Say that again.
+- It went: Print starting parenthesis, choice open parenthesis, opening curly
+  bracket, and then a new line.
+- Carry on.
+- So we've got twenty spaces at the start.
+- Sorry, what?
+- It was: So we've got twenty spaces at the start.
+- You what?
+- I said: So we've got twenty spaces at the start.
+- Got it.
+- quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Hang on, was that braaksma?
+- No, I said a.
+- Come again?
+- quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Repeat that.
+- quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Sorry, missed that bit.
+- I said: quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Sorry, missed that bit.
+- It went: quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Come again?
+- It was: quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Come again?
+- quote
+- What kind of quote?
+- Double quote, dash space No comma with capital N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Alright.
+- The next line begins with twenty spaces.
+- Hang on, was that vincente?
+- Nope, I said twenty.
+- Come again?
+- The next line begins with twenty spaces.
+- Come again?
+- I said: The next line begins with twenty spaces.
+- Yup.
+- quote
+- What kind of quote?
+- Double, dash space Nope comma with upper case N space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Mhmm.
+- twenty spaces.
+- Yes.
+- quote
+- What kind of quote?
+- Double, dash space Nah comma with big N space double quote comma and a new
+  line.
+- Uh, what?
+- quote
+- What kind of quote?
+- Double, dash space Nah comma with big N space double quote comma and a new
+  line.
+- Mhmm.
+- sixteen spaces.
+- Sorry, what?
+- It went: sixteen spaces.
+- Yes.
+- ending curly bracket, close parenthesis, space plus space choice opening
+  parenthesis, opening brace, then a new line.
+- Yes.
+- The next line begins with twenty spaces.
+- Repeat that.
+- It went: The next line begins with twenty spaces.
+- Repeat that.
+- It went: The next line begins with twenty spaces.
+- Uh, what?
+- It was: The next line begins with twenty spaces.
+- Repeat that.
+- That was: The next line begins with twenty spaces.
+- You what?
+- It went: The next line begins with twenty spaces.
+- Er, did you just say clyne?
+- Nope, that was line.
+- Come again?
+- That was: The next line begins with twenty spaces.
+- Er, did you just say sins?
+- No, I said begins.
+- Carry on.
+- Then quote
+- what kind of quote?
+- a double quote.
+- right, remember to tell me which one.
+- right, yeah, sorry. i all in caps space said space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Sorry, what?
+- Then quote
+- what kind of quote?
+- a double quote.
+- right, remember to tell me which one.
+- right, yeah, sorry. i all in caps space said space quote
+- What kind of quote?
+- A double quote, comma then a new line.
+- Mhmm.
+- So we've got twenty spaces at the start.
+- Come again?
+- It went: So we've got twenty spaces at the start.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. it space was space double quote comma then new line.
+- Come again?
+- It went: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. it space was space double quote comma then new line.
+- Aha.
+- twenty spaces.
+- Sorry, what?
+- It was: twenty spaces.
+- Got it.
+- quote
+- What kind of quote?
+- Double, that space was space quote
+- What kind of quote?
+- A double quote, comma and a new line.
+- Carry on.
+- OK so it begins with sixteen spaces.
+- Uh, what?
+- It went: OK so it begins with sixteen spaces.
+- Sorry, what?
+- That was: OK so it begins with sixteen spaces.
+- Sorry, missed that bit.
+- That was: OK so it begins with sixteen spaces.
+- Say that again.
+- OK so it begins with sixteen spaces.
+- You what?
+- I said: OK so it begins with sixteen spaces.
+- Can you repeat that?
+- It went: OK so it begins with sixteen spaces.
+- You what?
+- I said: OK so it begins with sixteen spaces.
+- Uh, what?
+- It was: OK so it begins with sixteen spaces.
+- Keep going.
+- ending brace, close parenthesis, space plus space missed space plus space
+  double quote dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing parenthesis, and a new line.
+- Uh, what?
+- It went: ending brace, close parenthesis, space plus space missed space plus
+  space double quote dot quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing parenthesis, and a new line.
+- Aha.
+- then a new line.
+- Er, did you just say beaubien?
+- Nope, that was then.
+- Carry on.
+- OK so it begins with four spaces.
+- You what?
+- It was: OK so it begins with four spaces.
+- Keep going.
+- If space percent underscore chance starting round bracket, six oh end
+  parenthesis, colon and then a new line.
+- Uh, what?
+- That was: If space percent underscore chance starting round bracket, six oh
+  end parenthesis, colon and then a new line.
+- Can you repeat that?
+- It went: If space percent underscore chance starting round bracket, six oh end
+  parenthesis, colon and then a new line.
+- Sorry, missed that bit.
+- I said: If space percent underscore chance starting round bracket, six oh end
+  parenthesis, colon and then a new line.
+- Got it.
+- eight spaces.
+- You what?
+- It went: eight spaces.
+- Yup.
+- You underscore what opening round bracket, out ending parenthesis, and then a
+  new line.
+- Repeat that.
+- That was: You underscore what opening round bracket, out ending parenthesis,
+  and then a new line.
+- Mhmm.
+- and a new line.
+- Whas that weyand?
+- Nah, that was and.
+- Alright.
+- then a new line.
+- Sorry, missed that bit.
+- It went: then a new line.
+- Mhmm.
+- Def space do underscore line opening parenthesis, line closing round bracket,
+  colon then new line.
+- Sorry, missed that bit.
+- That was: Def space do underscore line opening parenthesis, line closing round
+  bracket, colon then new line.
+- Uh, what?
+- It was: Def space do underscore line opening parenthesis, line closing round
+  bracket, colon then new line.
+- Alright.
+- The next line begins with four spaces.
+- Sorry, missed that bit.
+- That was: The next line begins with four spaces.
+- Carry on.
+- Out space equals sign space None with upper case N and a new line.
+- Hang on, was that scandia?
+- No, that was a.
+- Keep going.
+- The next line begins with four spaces.
+- Mhmm.
+- Spaces space equals space leading underscore spaces open parenthesis, line
+  close round bracket, then new line.
+- Repeat that.
+- That was: Spaces space equals space leading underscore spaces open
+  parenthesis, line close round bracket, then new line.
+- Sorry, what?
+- It went: Spaces space equals space leading underscore spaces open parenthesis,
+  line close round bracket, then new line.
+- Yup.
+- four spaces.
+- Yes.
+- If space spaces colon then new line.
+- Can you repeat that?
+- That was: If space spaces colon then new line.
+- Sorry, what?
+- It went: If space spaces colon then new line.
+- Keep going.
+- The next line begins with eight spaces.
+- Keep going.
+- N space equals sign space leading underscore spaces starting round bracket,
+  line close parenthesis, and a new line.
+- Can you repeat that?
+- It went: N space equals sign space leading underscore spaces starting round
+  bracket, line close parenthesis, and a new line.
+- You what?
+- N space equals sign space leading underscore spaces starting round bracket,
+  line close parenthesis, and a new line.
+- Repeat that.
+- It was: N space equals sign space leading underscore spaces starting round
+  bracket, line close parenthesis, and a new line.
+- Uh, what?
+- It went: N space equals sign space leading underscore spaces starting round
+  bracket, line close parenthesis, and a new line.
+- Keep going.
+- Then eight spaces.
+- Sorry, missed that bit.
+- That was: Then eight spaces.
+- Yes.
+- Out space equals sign space choice starting parenthesis, START underscore
+  TEMPLATES closing parenthesis, fullstop format starting parenthesis, with
+  upper case S, T, A, R, T, T, E, M, P, L, A, T, E and S, then new line.
+- Aha.
+- OK so it begins with twelve spaces.
+- Sorry, what?
+- It went: OK so it begins with twelve spaces.
+- Carry on.
+- P period number underscore to underscore words opening round bracket, n end
+  round bracket, comma space p period plural open parenthesis, double quote
+  space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space n end parenthesis, closing round bracket, then
+  new line.
+- Did you say trouble?
+- Nah, it was double.
+- Aha.
+- So we've got eight spaces at the start.
+- Come again?
+- It was: So we've got eight spaces at the start.
+- Yup.
+- Line space equals sign space line opening brace, spaces colon ending curly
+  bracket, and then a new line.
+- Aha.
+- Then eight spaces.
+- Say that again.
+- It was: Then eight spaces.
+- Yup.
+- Print starting round bracket, quote
+- What kind of quote?
+- Double quote, hyphen space double quote space plus space out close
+  parenthesis, and then a new line.
+- Did you say renowned?
+- No, it was round.
+- Whas that unrefined?
+- No, I said kind.
+- Say that again.
+- Print starting round bracket, quote
+- What kind of quote?
+- Double quote, hyphen space double quote space plus space out close
+  parenthesis, and then a new line.
+- Carry on.
+- then new line.
+- Come again?
+- It went: then new line.
+- Keep going.
+- The next line begins with four spaces.
+- Whas that finns?
+- Nah, I said begins.
+- Alright.
+- You underscore what start parenthesis, out end round bracket, then a new line.
+- Say that again.
+- That was: You underscore what start parenthesis, out end round bracket, then a
+  new line.
+- Say that again.
+- It was: You underscore what start parenthesis, out end round bracket, then a
+  new line.
+- Aha.
+- Then four spaces.
+- Yes.
+- If space out colon and a new line.
+- You what?
+- It was: If space out colon and a new line.
+- Keep going.
+- Then eight spaces.
+- Got it.
+- Print start round bracket, choice open parenthesis, GOT underscore IT end
+  round bracket, closing round bracket, with upper case G, O, T, I and T, and a
+  new line.
+- You what?
+- I said: Print start round bracket, choice open parenthesis, GOT underscore IT
+  end round bracket, closing round bracket, with upper case G, O, T, I and T,
+  and a new line.
+- Got it.
+- then a new line.
+- Say that again.
+- It went: then a new line.
+- Say that again.
+- That was: then a new line.
+- Sorry, what?
+- I said: then a new line.
+- Keep going.
+- four spaces.
+- Yup.
+- Words space equals sign space line period rstrip start round bracket, double
+  quote backward slash n quote
+- What kind of quote?
+- A double quote, closing round bracket, period split start round bracket, quote
+- What kind of quote?
+- A double quote, space quote
+- What kind of quote?
+- A double quote, ending parenthesis, and a new line.
+- Yes.
+- The next line begins with four spaces.
+- Uh, what?
+- I said: The next line begins with four spaces.
+- Sorry, missed that bit.
+- That was: The next line begins with four spaces.
+- Yes.
+- New underscore words space equals space start curly bracket, close brace, then
+  a new line.
+- Er, did you just say anchormen?
+- Nope, it was then.
+- Er, did you just say juana?
+- No, it was a.
+- Alright.
+- four spaces.
+- Sorry, missed that bit.
+- That was: four spaces.
+- You what?
+- four spaces.
+- Sorry, what?
+- That was: four spaces.
+- Mhmm.
+- For space word space in space words colon and a new line.
+- Repeat that.
+- For space word space in space words colon and a new line.
+- Yes.
+- then new line.
+- Sorry, missed that bit.
+- It was: then new line.
+- Come again?
+- It went: then new line.
+- Mhmm.
+- eight spaces.
+- Come again?
+- I said: eight spaces.
+- Say that again.
+- I said: eight spaces.
+- Carry on.
+- pound, space print start round bracket, word closing parenthesis, and then a
+  new line.
+- Did you say hurd?
+- No, I said word.
+- Mhmm.
+- and then a new line.
+- Can you repeat that?
+- and then a new line.
+- Alright.
+- OK so it begins with eight spaces.
+- Whas that asquith?
+- Nah, I said with.
+- Say that again.
+- It was: OK so it begins with eight spaces.
+- Yup.
+- New underscore word space equals space quote
+- What kind of quote?
+- Double quote, double quote and then a new line.
+- Yes.
+- eight spaces.
+- Aha.
+- For space char space in space word colon and then a new line.
+- Hang on, was that lace?
+- Nope, it was space.
+- Whas that umland?
+- Nah, I said and.
+- Sorry, what?
+- That was: For space char space in space word colon and then a new line.
+- Yes.
+- The next line begins with twelve spaces.
+- Er, did you just say smith?
+- Nope, it was with.
+- Hang on, was that shelve?
+- Nope, it was twelve.
+- Got it.
+- If space char space equal sign equal space quote
+- What kind of quote?
+- A double quote, comma quote
+- What kind of quote?
+- A double quote, colon and a new line.
+- Hang on, was that percussive?
+- Nope, it was of.
+- Carry on.
+- So we've got sixteen spaces at the start.
+- Come again?
+- I said: So we've got sixteen spaces at the start.
+- Er, did you just say bodenstein?
+- Nope, it was sixteen.
+- Mhmm.
+- New underscore word space plus equal sign space spacify open parenthesis,
+  quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma quote
+- What kind of quote?
+- Double, close parenthesis, and then a new line.
+- Mhmm.
+- OK so it begins with twelve spaces.
+- Whas that delve?
+- Nah, that was twelve.
+- Yes.
+- Elif space char space equal equals space double quote question mark, double
+  quote colon and then a new line.
+- Did you say groat?
+- No, I said quote.
+- Come again?
+- That was: Elif space char space equal equals space double quote question mark,
+  double quote colon and then a new line.
+- Hang on, was that shue?
+- Nope, I said new.
+- Got it.
+- sixteen spaces.
+- Er, did you just say eighteen?
+- Nah, that was sixteen.
+- Yup.
+- New underscore word space plus equals space spacify starting round bracket,
+  quote
+- What kind of quote?
+- Double, question space mark comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. close round bracket, then new line.
+- Mhmm.
+- The next line begins with twelve spaces.
+- Can you repeat that?
+- I said: The next line begins with twelve spaces.
+- Alright.
+- Elif space char space equal sign equal space single quote fullstop quote
+- What kind of quote?
+- Single quote, colon and then a new line.
+- Sorry, missed that bit.
+- Elif space char space equal sign equal space single quote fullstop quote
+- What kind of quote?
+- Single quote, colon and then a new line.
+- Whas that lehne?
+- No, I said then.
+- Can you repeat that?
+- That was: Elif space char space equal sign equal space single quote fullstop
+  quote
+- What kind of quote?
+- Single quote, colon and then a new line.
+- Got it.
+- OK so it begins with sixteen spaces.
+- Sorry, missed that bit.
+- That was: OK so it begins with sixteen spaces.
+- Hang on, was that fithe?
+- Nope, it was with.
+- Yes.
+- New underscore word space plus equals sign space spacify open round bracket,
+  choice opening parenthesis, start brace, double quote dot quote
+- What kind of quote?
+- Double, comma space double quote fullstop quote
+- What kind of quote?
+- Double quote, comma space quote
+- What kind of quote?
+- Double, period quote
+- What kind of quote?
+- Double, closing brace, closing parenthesis, ending parenthesis, then new line.
+- Sorry, what?
+- That was: New underscore word space plus equals sign space spacify open round
+  bracket, choice opening parenthesis, start brace, double quote dot quote
+- What kind of quote?
+- Double, comma space double quote fullstop quote
+- What kind of quote?
+- Double quote, comma space quote
+- What kind of quote?
+- Double, period quote
+- What kind of quote?
+- Double, closing brace, closing parenthesis, ending parenthesis, then new line.
+- Yup.
+- The next line begins with twelve spaces.
+- Whas that shelve?
+- No, I said twelve.
+- Uh, what?
+- It went: The next line begins with twelve spaces.
+- Hang on, was that hinze?
+- Nope, that was begins.
+- Sorry, missed that bit.
+- It was: The next line begins with twelve spaces.
+- Mhmm.
+- Elif space char space equals equal space quote
+- What kind of quote?
+- A single quote, minus single quote space or space char space equals equals
+  space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. minus double quote colon then a new line.
+- Alright.
+- So we've got sixteen spaces at the start.
+- Say that again.
+- It went: So we've got sixteen spaces at the start.
+- Carry on.
+- New underscore word space plus equal sign space spacify opening parenthesis,
+  choice opening parenthesis, start brace, quote
+- What kind of quote?
+- Double quote, dash quote
+- What kind of quote?
+- Double, comma space quote
+- What kind of quote?
+- A double quote, hyphen quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- Double quote, minus quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing curly bracket, ending parenthesis, closing
+  parenthesis, and a new line.
+- Sorry, missed that bit.
+- It went: New underscore word space plus equal sign space spacify opening
+  parenthesis, choice opening parenthesis, start brace, quote
+- What kind of quote?
+- Double quote, dash quote
+- What kind of quote?
+- Double, comma space quote
+- What kind of quote?
+- A double quote, hyphen quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space quote
+- What kind of quote?
+- Double quote, minus quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing curly bracket, ending parenthesis, closing
+  parenthesis, and a new line.
+- Aha.
+- Then twelve spaces.
+- Uh, what?
+- It was: Then twelve spaces.
+- Alright.
+- Elif space char space equal equals sign space quote
+- What kind of quote?
+- Double, single quote quote
+- What kind of quote?
+- Double quote, colon and a new line.
+- Can you repeat that?
+- I said: Elif space char space equal equals sign space quote
+- What kind of quote?
+- Double, single quote quote
+- What kind of quote?
+- Double quote, colon and a new line.
+- Mhmm.
+- So we've got sixteen spaces at the start.
+- Er, did you just say misperceive?
+- No, that was we've.
+- Er, did you just say vancott?
+- Nah, it was got.
+- Repeat that.
+- It went: So we've got sixteen spaces at the start.
+- Whas that greave?
+- Nah, that was we've.
+- Alright.
+- New underscore word space plus equal space spacify open round bracket, choice
+  starting parenthesis, SINGLE underscore QUOTE closing parenthesis, ending
+  round bracket, with upper case S, I, N, G, L, E, Q, U, O, T and E, and a new
+  line.
+- Sorry, missed that bit.
+- It was: New underscore word space plus equal space spacify open round bracket,
+  choice starting parenthesis, SINGLE underscore QUOTE closing parenthesis,
+  ending round bracket, with upper case S, I, N, G, L, E, Q, U, O, T and E, and
+  a new line.
+- Hang on, was that wace?
+- Nah, that was space.
+- Sorry, missed that bit.
+- New underscore word space plus equal space spacify open round bracket, choice
+  starting parenthesis, SINGLE underscore QUOTE closing parenthesis, ending
+  round bracket, with upper case S, I, N, G, L, E, Q, U, O, T and E, and a new
+  line.
+- Come again?
+- That was: New underscore word space plus equal space spacify open round
+  bracket, choice starting parenthesis, SINGLE underscore QUOTE closing
+  parenthesis, ending round bracket, with upper case S, I, N, G, L, E, Q, U, O,
+  T and E, and a new line.
+- Say that again.
+- It was: New underscore word space plus equal space spacify open round bracket,
+  choice starting parenthesis, SINGLE underscore QUOTE closing parenthesis,
+  ending round bracket, with upper case S, I, N, G, L, E, Q, U, O, T and E, and
+  a new line.
+- Can you repeat that?
+- That was: New underscore word space plus equal space spacify open round
+  bracket, choice starting parenthesis, SINGLE underscore QUOTE closing
+  parenthesis, ending round bracket, with upper case S, I, N, G, L, E, Q, U, O,
+  T and E, and a new line.
+- Repeat that.
+- I said: New underscore word space plus equal space spacify open round bracket,
+  choice starting parenthesis, SINGLE underscore QUOTE closing parenthesis,
+  ending round bracket, with upper case S, I, N, G, L, E, Q, U, O, T and E, and
+  a new line.
+- Uh, what?
+- I said: New underscore word space plus equal space spacify open round bracket,
+  choice starting parenthesis, SINGLE underscore QUOTE closing parenthesis,
+  ending round bracket, with upper case S, I, N, G, L, E, Q, U, O, T and E, and
+  a new line.
+- Mhmm.
+- OK so it begins with twelve spaces.
+- Did you say browe?
+- No, it was so.
+- Can you repeat that?
+- OK so it begins with twelve spaces.
+- Whas that goh?
+- Nah, that was so.
+- Uh, what?
+- It was: OK so it begins with twelve spaces.
+- Mhmm.
+- Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Single, quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- A single quote, space or space char space equal sign equal sign space quote
+- What kind of quote?
+- Double, double quote quote
+- What kind of quote?
+- Double, space or space char space equal equal sign space double quote quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Sorry, missed that bit.
+- It went: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Single, quote
+- What kind of quote?
+- Double quote, quote
+- What kind of quote?
+- A single quote, space or space char space equal sign equal sign space quote
+- What kind of quote?
+- Double, double quote quote
+- What kind of quote?
+- Double, space or space char space equal equal sign space double quote quote
+- What kind of quote?
+- A double quote, quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Alright.
+- The next line begins with sixteen spaces.
+- Whas that routine?
+- Nah, it was sixteen.
+- Mhmm.
+- New underscore word space plus equal space spacify open parenthesis, choice
+  opening round bracket, DOUBLE underscore QUOTE closing round bracket, ending
+  round bracket, with big D, O, U, B, L, E, Q, U, O, T and E, then a new line.
+- Alright.
+- OK so it begins with twelve spaces.
+- Yes.
+- Elif space char space equals sign equal space double quote pound, quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon and then a new line.
+- Got it.
+- sixteen spaces.
+- Carry on.
+- New underscore word space plus equal space spacify start round bracket, choice
+  start round bracket, starting curly bracket, and then a new line.
+- Hang on, was that marte?
+- Nah, I said start.
+- Alright.
+- So we've got twenty spaces at the start.
+- Repeat that.
+- I said: So we've got twenty spaces at the start.
+- Can you repeat that?
+- It went: So we've got twenty spaces at the start.
+- Uh, what?
+- I said: So we've got twenty spaces at the start.
+- You what?
+- It went: So we've got twenty spaces at the start.
+- You what?
+- I said: So we've got twenty spaces at the start.
+- Uh, what?
+- So we've got twenty spaces at the start.
+- Mhmm.
+- quote
+- What kind of quote?
+- A double quote, hash comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and then a new line.
+- Repeat that.
+- That was: quote
+- What kind of quote?
+- A double quote, hash comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma and then a new line.
+- Got it.
+- OK so it begins with twenty spaces.
+- Repeat that.
+- It went: OK so it begins with twenty spaces.
+- Alright.
+- quote
+- What kind of quote?
+- Double, pound comma quote
+- What kind of quote?
+- Double, comma then new line.
+- Repeat that.
+- It went: quote
+- What kind of quote?
+- Double, pound comma quote
+- What kind of quote?
+- Double, comma then new line.
+- Mhmm.
+- So we've got twenty spaces at the start.
+- Hang on, was that cannot?
+- No, I said got.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. hash space symbol comma double quote comma then a new
+  line.
+- Got it.
+- The next line begins with twenty spaces.
+- Sorry, missed that bit.
+- That was: The next line begins with twenty spaces.
+- Got it.
+- quote
+- What kind of quote?
+- A double quote, pound space symbol comma quote
+- What kind of quote?
+- A double quote, comma then new line.
+- Can you repeat that?
+- I said: quote
+- What kind of quote?
+- A double quote, pound space symbol comma quote
+- What kind of quote?
+- A double quote, comma then new line.
+- Aha.
+- twenty spaces.
+- Er, did you just say benavente?
+- Nope, I said twenty.
+- Whas that innocenti?
+- Nah, I said twenty.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote, hashtag comma quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma then new line.
+- Aha.
+- twenty spaces.
+- Er, did you just say piacente?
+- Nah, I said twenty.
+- Got it.
+- double quote hashtag dot slash
+- What kind of slash?
+- Manchester to London, n dash space Don quote
+- What kind of quote?
+- Single quote, t with capital D space call space it space a space hashtag
+  fullstop backward slash n dash space ok period all capitals space double quote
+  close brace, end parenthesis, ending round bracket, and then a new line.
+- Keep going.
+- The next line begins with twelve spaces.
+- Er, did you just say dissects?
+- Nah, I said next.
+- Yes.
+- Elif space char space equal equal space quote
+- What kind of quote?
+- Double, equal double quote colon and then a new line.
+- Mhmm.
+- The next line begins with sixteen spaces.
+- Er, did you just say gwinn's?
+- No, it was begins.
+- Repeat that.
+- That was: The next line begins with sixteen spaces.
+- Sorry, what?
+- That was: The next line begins with sixteen spaces.
+- Alright.
+- New underscore word space plus equal space spacify start round bracket, choice
+  open parenthesis, opening brace, and a new line.
+- Keep going.
+- OK so it begins with twenty spaces.
+- Say that again.
+- I said: OK so it begins with twenty spaces.
+- Yes.
+- quote
+- What kind of quote?
+- A double quote, equals quote
+- What kind of quote?
+- A double quote, comma space double quote equal double quote comma space double
+  quote equal space sign quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space double quote equals space sign double quote
+  end curly bracket, end round bracket, end parenthesis, and then a new line.
+- Come again?
+- That was: quote
+- What kind of quote?
+- A double quote, equals quote
+- What kind of quote?
+- A double quote, comma space double quote equal double quote comma space double
+  quote equal space sign quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. comma space double quote equals space sign double quote
+  end curly bracket, end round bracket, end parenthesis, and then a new line.
+- Carry on.
+- Then twelve spaces.
+- Can you repeat that?
+- Then twelve spaces.
+- Got it.
+- Elif space char space equals equal sign space quote
+- What kind of quote?
+- Double, exclamation mark double quote colon then new line.
+- Er, did you just say lucien?
+- No, it was then.
+- Got it.
+- The next line begins with sixteen spaces.
+- Sorry, missed that bit.
+- It was: The next line begins with sixteen spaces.
+- Yes.
+- New underscore word space plus equal space spacify opening parenthesis, quote
+- What kind of quote?
+- Double, exclamation space mark double quote ending parenthesis, then a new
+  line.
+- Mhmm.
+- OK so it begins with twelve spaces.
+- Mhmm.
+- Elif space char space equal equal sign space quote
+- What kind of quote?
+- A double quote, slash
+- What kind of slash?
+- Forward quote
+- What kind of quote?
+- A double quote, colon and then a new line.
+- Repeat that.
+- Elif space char space equal equal sign space quote
+- What kind of quote?
+- A double quote, slash
+- What kind of slash?
+- Forward quote
+- What kind of quote?
+- A double quote, colon and then a new line.
+- Repeat that.
+- I said: Elif space char space equal equal sign space quote
+- What kind of quote?
+- A double quote, slash
+- What kind of slash?
+- Forward quote
+- What kind of quote?
+- A double quote, colon and then a new line.
+- Can you repeat that?
+- Elif space char space equal equal sign space quote
+- What kind of quote?
+- A double quote, slash
+- What kind of slash?
+- Forward quote
+- What kind of quote?
+- A double quote, colon and then a new line.
+- Alright.
+- The next line begins with sixteen spaces.
+- Whas that coffeen?
+- No, it was sixteen.
+- Yes.
+- New underscore word space plus equals sign space spacify starting parenthesis,
+  choice start parenthesis, FORWARD underscore SLASH close round bracket, end
+  round bracket, with big F, O, R, W, A, R, D, S, L, A, S and H, then new line.
+- Keep going.
+- Then twelve spaces.
+- Can you repeat that?
+- Then twelve spaces.
+- Uh, what?
+- Then twelve spaces.
+- Can you repeat that?
+- Then twelve spaces.
+- Got it.
+- Elif space char space equals sign equals space quote
+- What kind of quote?
+- Double, slash
+- What kind of slash?
+- Backward slash
+- What kind of slash?
+- Manchester to London, double quote colon then a new line.
+- Can you repeat that?
+- It went: Elif space char space equals sign equals space quote
+- What kind of quote?
+- Double, slash
+- What kind of slash?
+- Backward slash
+- What kind of slash?
+- Manchester to London, double quote colon then a new line.
+- Come again?
+- That was: Elif space char space equals sign equals space quote
+- What kind of quote?
+- Double, slash
+- What kind of slash?
+- Backward slash
+- What kind of slash?
+- Manchester to London, double quote colon then a new line.
+- Got it.
+- Then sixteen spaces.
+- Can you repeat that?
+- I said: Then sixteen spaces.
+- You what?
+- Then sixteen spaces.
+- Aha.
+- New underscore word space plus equal sign space spacify open parenthesis,
+  choice opening round bracket, BACKWARD underscore SLASH ending parenthesis,
+  ending round bracket, with capital B, A, C, K, W, A, R, D, S, L, A, S and H,
+  then a new line.
+- Sorry, what?
+- It was: New underscore word space plus equal sign space spacify open
+  parenthesis, choice opening round bracket, BACKWARD underscore SLASH ending
+  parenthesis, ending round bracket, with capital B, A, C, K, W, A, R, D, S, L,
+  A, S and H, then a new line.
+- Yup.
+- OK so it begins with twelve spaces.
+- Uh, what?
+- That was: OK so it begins with twelve spaces.
+- Did you say pulpit?
+- Nope, that was it.
+- Can you repeat that?
+- That was: OK so it begins with twelve spaces.
+- Say that again.
+- It went: OK so it begins with twelve spaces.
+- Aha.
+- Elif space char space equals sign equal sign space single quote plus quote
+- What kind of quote?
+- A single quote, colon and a new line.
+- Sorry, missed that bit.
+- That was: Elif space char space equals sign equal sign space single quote plus
+  quote
+- What kind of quote?
+- A single quote, colon and a new line.
+- Uh, what?
+- I said: Elif space char space equals sign equal sign space single quote plus
+  quote
+- What kind of quote?
+- A single quote, colon and a new line.
+- Say that again.
+- It was: Elif space char space equals sign equal sign space single quote plus
+  quote
+- What kind of quote?
+- A single quote, colon and a new line.
+- Yup.
+- sixteen spaces.
+- You what?
+- I said: sixteen spaces.
+- Did you say vanveen?
+- Nah, it was sixteen.
+- Aha.
+- New underscore word space plus equal sign space spacify opening round bracket,
+  quote
+- What kind of quote?
+- A double quote, plus quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. ending parenthesis, then a new line.
+- Repeat that.
+- It was: New underscore word space plus equal sign space spacify opening round
+  bracket, quote
+- What kind of quote?
+- A double quote, plus quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. ending parenthesis, then a new line.
+- Keep going.
+- Then twelve spaces.
+- Say that again.
+- It went: Then twelve spaces.
+- Uh, what?
+- I said: Then twelve spaces.
+- Yup.
+- Elif space char space equals sign equals space single quote colon quote
+- What kind of quote?
+- A single quote.
+- OK, please remember what kind, we've gone through this.
+- Yeah, sorry. colon and a new line.
+- Yes.
+- The next line begins with sixteen spaces.
+- Sorry, what?
+- The next line begins with sixteen spaces.
+- Come again?
+- I said: The next line begins with sixteen spaces.
+- Yup.
+- New underscore word space plus equals sign space spacify start round bracket,
+  double quote colon double quote ending round bracket, and then a new line.
+- Sorry, what?
+- It was: New underscore word space plus equals sign space spacify start round
+  bracket, double quote colon double quote ending round bracket, and then a new
+  line.
+- Say that again.
+- It was: New underscore word space plus equals sign space spacify start round
+  bracket, double quote colon double quote ending round bracket, and then a new
+  line.
+- Did you say gird?
+- Nope, it was word.
+- Sorry, missed that bit.
+- New underscore word space plus equals sign space spacify start round bracket,
+  double quote colon double quote ending round bracket, and then a new line.
+- Hang on, was that heartened?
+- No, it was and.
+- You what?
+- It was: New underscore word space plus equals sign space spacify start round
+  bracket, double quote colon double quote ending round bracket, and then a new
+  line.
+- Sorry, missed that bit.
+- It was: New underscore word space plus equals sign space spacify start round
+  bracket, double quote colon double quote ending round bracket, and then a new
+  line.
+- Carry on.
+- OK so it begins with twelve spaces.
+- Sorry, what?
+- OK so it begins with twelve spaces.
+- Er, did you just say binns?
+- No, that was begins.
+- Say that again.
+- That was: OK so it begins with twelve spaces.
+- Aha.
+- Elif space char space equals equals space double quote underscore double quote
+  colon and a new line.
+- Sorry, what?
+- I said: Elif space char space equals equals space double quote underscore
+  double quote colon and a new line.
+- Did you say mannina?
+- Nah, it was a.
+- Alright.
+- OK so it begins with sixteen spaces.
+- Keep going.
+- New underscore word space plus equal sign space spacify open round bracket,
+  double quote underscore double quote closing parenthesis, and then a new line.
+- Repeat that.
+- It was: New underscore word space plus equal sign space spacify open round
+  bracket, double quote underscore double quote closing parenthesis, and then a
+  new line.
+- Say that again.
+- New underscore word space plus equal sign space spacify open round bracket,
+  double quote underscore double quote closing parenthesis, and then a new line.
+- Keep going.
+- The next line begins with twelve spaces.
+- Mhmm.
+- Elif space char space equal equals space double quote zero double quote colon
+  then new line.
+- Repeat that.
+- It went: Elif space char space equal equals space double quote zero double
+  quote colon then new line.
+- Did you say cote?
+- No, that was quote.
+- Aha.
+- Then sixteen spaces.
+- Uh, what?
+- Then sixteen spaces.
+- Sorry, what?
+- Then sixteen spaces.
+- Hang on, was that fifteen?
+- No, I said sixteen.
+- Yes.
+- New underscore word space plus equals space spacify starting round bracket,
+  choice open parenthesis, open brace, double quote zero quote
+- What kind of quote?
+- Double, comma space quote
+- What kind of quote?
+- Double quote, oh quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing brace, close round bracket, closing round bracket,
+  then new line.
+- Did you say pember?
+- Nah, that was remember.
+- Yup.
+- OK so it begins with twelve spaces.
+- Er, did you just say delve?
+- Nah, it was twelve.
+- Mhmm.
+- Elif space char space equals equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. one quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Er, did you just say sequel?
+- Nope, that was equal.
+- Whas that lessee?
+- No, it was me.
+- Uh, what?
+- I said: Elif space char space equals equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. one quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Sorry, what?
+- Elif space char space equals equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. one quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Got it.
+- The next line begins with sixteen spaces.
+- Did you say perplexed?
+- Nope, that was next.
+- Hang on, was that ledwith?
+- Nah, that was with.
+- Whas that sex?
+- Nah, it was next.
+- Aha.
+- New underscore word space plus equals space spacify start parenthesis, double
+  quote one double quote close round bracket, then a new line.
+- Say that again.
+- It went: New underscore word space plus equals space spacify start
+  parenthesis, double quote one double quote close round bracket, then a new
+  line.
+- Mhmm.
+- So we've got twelve spaces at the start.
+- Say that again.
+- It went: So we've got twelve spaces at the start.
+- Mhmm.
+- Elif space char space equals equals space quote
+- What kind of quote?
+- Double, two quote
+- What kind of quote?
+- Double, colon then new line.
+- Uh, what?
+- That was: Elif space char space equals equals space quote
+- What kind of quote?
+- Double, two quote
+- What kind of quote?
+- Double, colon then new line.
+- Mhmm.
+- Then sixteen spaces.
+- Can you repeat that?
+- It went: Then sixteen spaces.
+- Mhmm.
+- New underscore word space plus equal space spacify opening parenthesis, double
+  quote two quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing parenthesis, then new line.
+- Repeat that.
+- It went: New underscore word space plus equal space spacify opening
+  parenthesis, double quote two quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing parenthesis, then new line.
+- Uh, what?
+- New underscore word space plus equal space spacify opening parenthesis, double
+  quote two quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. closing parenthesis, then new line.
+- Yup.
+- Then twelve spaces.
+- Keep going.
+- Elif space char space equals sign equal space quote
+- What kind of quote?
+- Double, three double quote colon and then a new line.
+- Come again?
+- I said: Elif space char space equals sign equal space quote
+- What kind of quote?
+- Double, three double quote colon and then a new line.
+- Uh, what?
+- Elif space char space equals sign equal space quote
+- What kind of quote?
+- Double, three double quote colon and then a new line.
+- Keep going.
+- sixteen spaces.
+- Can you repeat that?
+- That was: sixteen spaces.
+- Say that again.
+- It was: sixteen spaces.
+- Carry on.
+- New underscore word space plus equal space spacify open round bracket, quote
+- What kind of quote?
+- Double quote, three quote
+- What kind of quote?
+- A double quote, closing parenthesis, and then a new line.
+- Carry on.
+- twelve spaces.
+- Sorry, what?
+- It was: twelve spaces.
+- Alright.
+- Elif space char space equal sign equal space quote
+- What kind of quote?
+- Double quote, four double quote colon then a new line.
+- Hang on, was that left-brace?
+- No, I said space.
+- Alright.
+- Then sixteen spaces.
+- Carry on.
+- New underscore word space plus equals space spacify open parenthesis, quote
+- What kind of quote?
+- Double, four quote
+- What kind of quote?
+- Double quote, end parenthesis, then a new line.
+- Er, did you just say sequels?
+- No, it was equals.
+- Carry on.
+- So we've got twelve spaces at the start.
+- Mhmm.
+- Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- You what?
+- I said: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Come again?
+- Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Repeat that.
+- Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Say that again.
+- I said: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Did you say cou?
+- Nah, I said new.
+- Whas that underwrote?
+- No, I said quote.
+- You what?
+- It went: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Say that again.
+- That was: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- Double quote, five quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Alright.
+- Then sixteen spaces.
+- Whas that georgine?
+- Nah, it was sixteen.
+- Sorry, what?
+- Then sixteen spaces.
+- Yup.
+- New underscore word space plus equal space spacify open parenthesis, double
+  quote five quote
+- What kind of quote?
+- Double quote, close round bracket, then new line.
+- Repeat that.
+- It was: New underscore word space plus equal space spacify open parenthesis,
+  double quote five quote
+- What kind of quote?
+- Double quote, close round bracket, then new line.
+- Yup.
+- twelve spaces.
+- Say that again.
+- I said: twelve spaces.
+- Alright.
+- Elif space char space equal equals sign space quote
+- What kind of quote?
+- A double quote, six quote
+- What kind of quote?
+- Double, colon then a new line.
+- Aha.
+- OK so it begins with sixteen spaces.
+- Sorry, missed that bit.
+- It was: OK so it begins with sixteen spaces.
+- Hang on, was that linz?
+- No, it was begins.
+- Keep going.
+- New underscore word space plus equals sign space spacify start parenthesis,
+  double quote six double quote end round bracket, then new line.
+- Uh, what?
+- It went: New underscore word space plus equals sign space spacify start
+  parenthesis, double quote six double quote end round bracket, then new line.
+- You what?
+- I said: New underscore word space plus equals sign space spacify start
+  parenthesis, double quote six double quote end round bracket, then new line.
+- Yes.
+- The next line begins with twelve spaces.
+- Can you repeat that?
+- It went: The next line begins with twelve spaces.
+- Hang on, was that sign?
+- No, that was line.
+- Repeat that.
+- It went: The next line begins with twelve spaces.
+- Yup.
+- Elif space char space equals sign equal space double quote seven quote
+- What kind of quote?
+- Double quote, colon and then a new line.
+- Come again?
+- That was: Elif space char space equals sign equal space double quote seven
+  quote
+- What kind of quote?
+- Double quote, colon and then a new line.
+- Yup.
+- Then sixteen spaces.
+- Can you repeat that?
+- It was: Then sixteen spaces.
+- Repeat that.
+- That was: Then sixteen spaces.
+- Alright.
+- New underscore word space plus equals sign space spacify opening round
+  bracket, double quote seven double quote closing round bracket, and a new
+  line.
+- Er, did you just say sequels?
+- Nope, that was equals.
+- Alright.
+- Then twelve spaces.
+- Did you say delve?
+- Nah, it was twelve.
+- Keep going.
+- Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. eight quote
+- What kind of quote?
+- A double quote, colon then new line.
+- Say that again.
+- Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. eight quote
+- What kind of quote?
+- A double quote, colon then new line.
+- Can you repeat that?
+- It went: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. eight quote
+- What kind of quote?
+- A double quote, colon then new line.
+- Sorry, missed that bit.
+- It went: Elif space char space equal sign equal sign space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. eight quote
+- What kind of quote?
+- A double quote, colon then new line.
+- Carry on.
+- sixteen spaces.
+- Whas that moquin?
+- No, I said sixteen.
+- Sorry, what?
+- sixteen spaces.
+- Come again?
+- I said: sixteen spaces.
+- Hang on, was that kean?
+- Nope, that was sixteen.
+- Come again?
+- It was: sixteen spaces.
+- Got it.
+- New underscore word space plus equal space spacify start round bracket, double
+  quote eight quote
+- What kind of quote?
+- A double quote, closing round bracket, and then a new line.
+- Sorry, missed that bit.
+- New underscore word space plus equal space spacify start round bracket, double
+  quote eight quote
+- What kind of quote?
+- A double quote, closing round bracket, and then a new line.
+- Sorry, missed that bit.
+- New underscore word space plus equal space spacify start round bracket, double
+  quote eight quote
+- What kind of quote?
+- A double quote, closing round bracket, and then a new line.
+- Say that again.
+- That was: New underscore word space plus equal space spacify start round
+  bracket, double quote eight quote
+- What kind of quote?
+- A double quote, closing round bracket, and then a new line.
+- Come again?
+- I said: New underscore word space plus equal space spacify start round
+  bracket, double quote eight quote
+- What kind of quote?
+- A double quote, closing round bracket, and then a new line.
+- Uh, what?
+- It went: New underscore word space plus equal space spacify start round
+  bracket, double quote eight quote
+- What kind of quote?
+- A double quote, closing round bracket, and then a new line.
+- Got it.
+- twelve spaces.
+- Can you repeat that?
+- It was: twelve spaces.
+- Er, did you just say delve?
+- No, it was twelve.
+- Sorry, missed that bit.
+- It went: twelve spaces.
+- Yup.
+- Elif space char space equal equals sign space double quote nine double quote
+  colon then new line.
+- Er, did you just say kleine?
+- No, it was sign.
+- Yes.
+- sixteen spaces.
+- Sorry, what?
+- It was: sixteen spaces.
+- Hang on, was that philene?
+- No, it was sixteen.
+- You what?
+- I said: sixteen spaces.
+- Can you repeat that?
+- It went: sixteen spaces.
+- Come again?
+- That was: sixteen spaces.
+- Yup.
+- New underscore word space plus equals space spacify open round bracket, quote
+- What kind of quote?
+- Double quote, nine double quote ending round bracket, and then a new line.
+- Come again?
+- It went: New underscore word space plus equals space spacify open round
+  bracket, quote
+- What kind of quote?
+- Double quote, nine double quote ending round bracket, and then a new line.
+- Uh, what?
+- New underscore word space plus equals space spacify open round bracket, quote
+- What kind of quote?
+- Double quote, nine double quote ending round bracket, and then a new line.
+- Uh, what?
+- New underscore word space plus equals space spacify open round bracket, quote
+- What kind of quote?
+- Double quote, nine double quote ending round bracket, and then a new line.
+- Uh, what?
+- That was: New underscore word space plus equals space spacify open round
+  bracket, quote
+- What kind of quote?
+- Double quote, nine double quote ending round bracket, and then a new line.
+- Keep going.
+- So we've got twelve spaces at the start.
+- Sorry, missed that bit.
+- So we've got twelve spaces at the start.
+- Mhmm.
+- Elif space char space equals sign equal sign space quote
+- What kind of quote?
+- A double quote, starting round bracket, quote
+- What kind of quote?
+- Double quote, colon then a new line.
+- Repeat that.
+- It went: Elif space char space equals sign equal sign space quote
+- What kind of quote?
+- A double quote, starting round bracket, quote
+- What kind of quote?
+- Double quote, colon then a new line.
+- Yup.
+- sixteen spaces.
+- Whas that aleen?
+- Nope, that was sixteen.
+- Can you repeat that?
+- I said: sixteen spaces.
+- Sorry, missed that bit.
+- That was: sixteen spaces.
+- Aha.
+- New underscore word space plus equal sign space spacify start parenthesis,
+  choice starting parenthesis, START ending parenthesis, with upper case S, T,
+  A, R and T, space plus space choice start round bracket, PARENTHESIS end
+  parenthesis, end round bracket, with big P, A, R, E, N, T, H, E, S, I and S,
+  and a new line.
+- Hang on, was that {left-brace?
+- No, that was case.
+- Got it.
+- twelve spaces.
+- Sorry, what?
+- I said: twelve spaces.
+- Come again?
+- twelve spaces.
+- Say that again.
+- twelve spaces.
+- Say that again.
+- I said: twelve spaces.
+- Repeat that.
+- It went: twelve spaces.
+- Uh, what?
+- I said: twelve spaces.
+- Got it.
+- Elif space char space equal equals sign space quote
+- What kind of quote?
+- Double quote, ending round bracket, double quote colon and a new line.
+- Yup.
+- The next line begins with sixteen spaces.
+- Sorry, what?
+- The next line begins with sixteen spaces.
+- You what?
+- It was: The next line begins with sixteen spaces.
+- Yup.
+- New underscore word space plus equals sign space spacify opening round
+  bracket, choice opening round bracket, CLOSE ending round bracket, with
+  capital C, L, O, S and E, space plus space choice starting parenthesis,
+  PARENTHESIS end round bracket, ending round bracket, with upper case P, A, R,
+  E, N, T, H, E, S, I and S, then new line.
+- Yup.
+- So we've got twelve spaces at the start.
+- Whas that perceive?
+- Nah, that was we've.
+- Sorry, what?
+- It went: So we've got twelve spaces at the start.
+- Keep going.
+- Elif space char space equal sign equals space quote
+- What kind of quote?
+- Double, opening brace, quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Can you repeat that?
+- That was: Elif space char space equal sign equals space quote
+- What kind of quote?
+- Double, opening brace, quote
+- What kind of quote?
+- Double quote, colon then new line.
+- Keep going.
+- OK so it begins with sixteen spaces.
+- Say that again.
+- I said: OK so it begins with sixteen spaces.
+- Did you say dith?
+- Nope, I said with.
+- Er, did you just say throw?
+- Nope, it was so.
+- Mhmm.
+- New underscore word space plus equal space spacify start round bracket, choice
+  starting parenthesis, START ending round bracket, with big S, T, A, R and T,
+  space plus space choice starting parenthesis, BRACE ending parenthesis,
+  closing parenthesis, with capital B, R, A, C and E, and a new line.
+- Er, did you just say replace?
+- Nah, that was space.
+- Yes.
+- So we've got twelve spaces at the start.
+- Uh, what?
+- That was: So we've got twelve spaces at the start.
+- Got it.
+- Elif space char space equals equal sign space quote
+- What kind of quote?
+- Double quote, end brace, double quote colon then new line.
+- Got it.
+- Then sixteen spaces.
+- Uh, what?
+- That was: Then sixteen spaces.
+- Er, did you just say laurene?
+- Nope, that was sixteen.
+- Yes.
+- New underscore word space plus equals space spacify start parenthesis, choice
+  start round bracket, CLOSE ending round bracket, with big C, L, O, S and E,
+  space plus space choice start parenthesis, BRACE closing parenthesis, ending
+  round bracket, with big B, R, A, C and E, then new line.
+- Whas that banderas?
+- Nope, that was plus.
+- Repeat that.
+- It was: New underscore word space plus equals space spacify start parenthesis,
+  choice start round bracket, CLOSE ending round bracket, with big C, L, O, S
+  and E, space plus space choice start parenthesis, BRACE closing parenthesis,
+  ending round bracket, with big B, R, A, C and E, then new line.
+- Repeat that.
+- It was: New underscore word space plus equals space spacify start parenthesis,
+  choice start round bracket, CLOSE ending round bracket, with big C, L, O, S
+  and E, space plus space choice start parenthesis, BRACE closing parenthesis,
+  ending round bracket, with big B, R, A, C and E, then new line.
+- Yup.
+- Then twelve spaces.
+- Whas that shelve?
+- No, that was twelve.
+- Keep going.
+- Elif space char space equals equals sign space double quote start angle
+  bracket, quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Repeat that.
+- I said: Elif space char space equals equals sign space double quote start
+  angle bracket, quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Can you repeat that?
+- It was: Elif space char space equals equals sign space double quote start
+  angle bracket, quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. colon then a new line.
+- Yup.
+- OK so it begins with sixteen spaces.
+- Uh, what?
+- I said: OK so it begins with sixteen spaces.
+- Mhmm.
+- New underscore word space plus equal sign space spacify open round bracket,
+  choice open round bracket, and then a new line.
+- Hang on, was that deface?
+- Nah, I said space.
+- Sorry, what?
+- I said: New underscore word space plus equal sign space spacify open round
+  bracket, choice open round bracket, and then a new line.
+- You what?
+- That was: New underscore word space plus equal sign space spacify open round
+  bracket, choice open round bracket, and then a new line.
+- Repeat that.
+- It was: New underscore word space plus equal sign space spacify open round
+  bracket, choice open round bracket, and then a new line.
+- Keep going.
+- twenty spaces.
+- Sorry, what?
+- twenty spaces.
+- Yup.
+- open curly bracket, double quote less space than quote
+- What kind of quote?
+- Double quote, comma space choice open round bracket, START close round
+  bracket, with big S, T, A, R and T, space plus space choice start round
+  bracket, CHEVRON close round bracket, close curly bracket, ending parenthesis,
+  end parenthesis, with upper case C, H, E, V, R, O and N, then a new line.
+- Did you say neverland?
+- No, that was and.
+- Did you say reopen?
+- Nope, that was open.
+- Carry on.
+- OK so it begins with twelve spaces.
+- Say that again.
+- It was: OK so it begins with twelve spaces.
+- Sorry, what?
+- That was: OK so it begins with twelve spaces.
+- Yes.
+- Elif space char space equals equal space double quote greater than double
+  quote colon then new line.
+- Did you say dolan?
+- No, I said colon.
+- Say that again.
+- I said: Elif space char space equals equal space double quote greater than
+  double quote colon then new line.
+- Aha.
+- sixteen spaces.
+- Can you repeat that?
+- That was: sixteen spaces.
+- Yup.
+- New underscore word space plus equals sign space spacify starting parenthesis,
+  choice open parenthesis, opening brace, and a new line.
+- You what?
+- I said: New underscore word space plus equals sign space spacify starting
+  parenthesis, choice open parenthesis, opening brace, and a new line.
+- You what?
+- It was: New underscore word space plus equals sign space spacify starting
+  parenthesis, choice open parenthesis, opening brace, and a new line.
+- Got it.
+- twenty spaces.
+- Say that again.
+- It was: twenty spaces.
+- Say that again.
+- It went: twenty spaces.
+- Aha.
+- quote
+- What kind of quote?
+- Double quote, greater space than quote
+- What kind of quote?
+- Double, comma space choice open round bracket, CLOSE ending round bracket,
+  with capital C, L, O, S and E, space plus space choice start parenthesis,
+  CHEVRON end round bracket, closing brace, close round bracket, ending round
+  bracket, with upper case C, H, E, V, R, O and N, then a new line.
+- Come again?
+- quote
+- What kind of quote?
+- Double quote, greater space than quote
+- What kind of quote?
+- Double, comma space choice open round bracket, CLOSE ending round bracket,
+  with capital C, L, O, S and E, space plus space choice start parenthesis,
+  CHEVRON end round bracket, closing brace, close round bracket, ending round
+  bracket, with upper case C, H, E, V, R, O and N, then a new line.
+- Yup.
+- OK so it begins with twelve spaces.
+- Can you repeat that?
+- That was: OK so it begins with twelve spaces.
+- Got it.
+- Else colon and a new line.
+- Sorry, what?
+- Else colon and a new line.
+- Er, did you just say shiu?
+- No, it was new.
+- Got it.
+- sixteen spaces.
+- Can you repeat that?
+- sixteen spaces.
+- Alright.
+- New underscore word space plus equals sign space char then a new line.
+- Yup.
+- and then a new line.
+- Uh, what?
+- and then a new line.
+- Yup.
+- eight spaces.
+- Repeat that.
+- I said: eight spaces.
+- Come again?
+- It went: eight spaces.
+- Mhmm.
+- If space word period isupper start round bracket, ending round bracket, colon
+  then new line.
+- Uh, what?
+- If space word period isupper start round bracket, ending round bracket, colon
+  then new line.
+- Sorry, what?
+- It went: If space word period isupper start round bracket, ending round
+  bracket, colon then new line.
+- Mhmm.
+- Then twelve spaces.
+- Keep going.
+- New underscore word space equals sign space choice starting round bracket,
+  starting brace, and a new line.
+- Uh, what?
+- I said: New underscore word space equals sign space choice starting round
+  bracket, starting brace, and a new line.
+- Can you repeat that?
+- New underscore word space equals sign space choice starting round bracket,
+  starting brace, and a new line.
+- Sorry, missed that bit.
+- It was: New underscore word space equals sign space choice starting round
+  bracket, starting brace, and a new line.
+- Yes.
+- sixteen spaces.
+- You what?
+- It was: sixteen spaces.
+- Sorry, what?
+- sixteen spaces.
+- Uh, what?
+- I said: sixteen spaces.
+- Alright.
+- double quote { zero } space all space in space caps quote
+- What kind of quote?
+- Double quote, comma then new line.
+- Yes.
+- Then sixteen spaces.
+- Say that again.
+- It went: Then sixteen spaces.
+- Sorry, missed that bit.
+- That was: Then sixteen spaces.
+- Repeat that.
+- It went: Then sixteen spaces.
+- Aha.
+- double quote { zero } space all space capitals quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Uh, what?
+- I said: double quote { zero } space all space capitals quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Uh, what?
+- That was: double quote { zero } space all space capitals quote
+- What kind of quote?
+- Double quote, comma and a new line.
+- Mhmm.
+- sixteen spaces.
+- Sorry, missed that bit.
+- That was: sixteen spaces.
+- Yes.
+- double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Sorry, what?
+- That was: double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Hang on, was that forin?
+- Nope, I said in.
+- Did you say drace?
+- No, it was space.
+- Can you repeat that?
+- double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Whas that hinote?
+- No, that was quote.
+- Did you say glue?
+- No, I said new.
+- Can you repeat that?
+- It was: double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Say that again.
+- I said: double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Uh, what?
+- double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Hang on, was that superhero?
+- No, that was zero.
+- Sorry, missed that bit.
+- It went: double quote { zero } space in space caps quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Yup.
+- OK so it begins with sixteen spaces.
+- Repeat that.
+- That was: OK so it begins with sixteen spaces.
+- Repeat that.
+- I said: OK so it begins with sixteen spaces.
+- Repeat that.
+- It was: OK so it begins with sixteen spaces.
+- Yup.
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then space capitalised space { zero } quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Come again?
+- It was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then space capitalised space { zero } quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Sorry, what?
+- quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then space capitalised space { zero } quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Did you say unrefined?
+- No, that was kind.
+- You what?
+- It was: quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then space capitalised space { zero } quote
+- What kind of quote?
+- Double quote, comma then a new line.
+- Aha.
+- The next line begins with sixteen spaces.
+- Come again?
+- It went: The next line begins with sixteen spaces.
+- Hang on, was that fifth?
+- Nah, I said with.
+- Hang on, was that checks?
+- Nope, I said next.
+- Repeat that.
+- I said: The next line begins with sixteen spaces.
+- Hang on, was that binns?
+- Nah, that was begins.
+- Sorry, missed that bit.
+- I said: The next line begins with sixteen spaces.
+- Repeat that.
+- I said: The next line begins with sixteen spaces.
+- Aha.
+- quote
+- What kind of quote?
+- A double quote, then space upper space case space { zero } quote
+- What kind of quote?
+- Double, comma then a new line.
+- Er, did you just say tupper?
+- Nah, it was upper.
+- Come again?
+- It went: quote
+- What kind of quote?
+- A double quote, then space upper space case space { zero } quote
+- What kind of quote?
+- Double, comma then a new line.
+- Can you repeat that?
+- That was: quote
+- What kind of quote?
+- A double quote, then space upper space case space { zero } quote
+- What kind of quote?
+- Double, comma then a new line.
+- Did you say cama?
+- Nope, that was comma.
+- Can you repeat that?
+- quote
+- What kind of quote?
+- A double quote, then space upper space case space { zero } quote
+- What kind of quote?
+- Double, comma then a new line.
+- Yup.
+- OK so it begins with sixteen spaces.
+- Mhmm.
+- quote
+- What kind of quote?
+- Double, then space { zero } space all space in space caps double quote close
+  brace, end round bracket, fullstop format start parenthesis, new underscore
+  word period lower opening parenthesis, close round bracket, close round
+  bracket, then a new line.
+- Whas that spall?
+- No, it was all.
+- Uh, what?
+- I said: quote
+- What kind of quote?
+- Double, then space { zero } space all space in space caps double quote close
+  brace, end round bracket, fullstop format start parenthesis, new underscore
+  word period lower opening parenthesis, close round bracket, close round
+  bracket, then a new line.
+- Whas that technocrat?
+- Nope, it was format.
+- Sorry, missed that bit.
+- quote
+- What kind of quote?
+- Double, then space { zero } space all space in space caps double quote close
+  brace, end round bracket, fullstop format start parenthesis, new underscore
+  word period lower opening parenthesis, close round bracket, close round
+  bracket, then a new line.
+- Repeat that.
+- That was: quote
+- What kind of quote?
+- Double, then space { zero } space all space in space caps double quote close
+  brace, end round bracket, fullstop format start parenthesis, new underscore
+  word period lower opening parenthesis, close round bracket, close round
+  bracket, then a new line.
+- Hang on, was that bass?
+- Nope, I said space.
+- Hang on, was that kovalyov?
+- No, I said of.
+- Yup.
+- eight spaces.
+- Can you repeat that?
+- eight spaces.
+- Come again?
+- I said: eight spaces.
+- Yes.
+- Else colon then a new line.
+- Whas that parazoa?
+- No, that was a.
+- Aha.
+- twelve spaces.
+- Sorry, what?
+- I said: twelve spaces.
+- Alright.
+- Uppers space equals sign space upper underscore case underscore letters
+  starting parenthesis, word end round bracket, and then a new line.
+- Mhmm.
+- OK so it begins with twelve spaces.
+- Hang on, was that ins?
+- Nah, I said begins.
+- Whas that shelve?
+- Nah, it was twelve.
+- Yes.
+- If space uppers colon then new line.
+- Sorry, missed that bit.
+- It went: If space uppers colon then new line.
+- Say that again.
+- It went: If space uppers colon then new line.
+- Mhmm.
+- sixteen spaces.
+- Uh, what?
+- It was: sixteen spaces.
+- Alright.
+- hash, space Mixed with big M space case and a new line.
+- Hang on, was that withdrew?
+- Nah, I said new.
+- Yup.
+- sixteen spaces.
+- Uh, what?
+- I said: sixteen spaces.
+- Come again?
+- sixteen spaces.
+- Say that again.
+- That was: sixteen spaces.
+- Sorry, what?
+- It was: sixteen spaces.
+- Yes.
+- New underscore word space plus equal space choice start parenthesis, open
+  curly bracket, and then a new line.
+- Can you repeat that?
+- I said: New underscore word space plus equal space choice start parenthesis,
+  open curly bracket, and then a new line.
+- Alright.
+- Then twenty spaces.
+- Did you say girgenti?
+- No, it was twenty.
+- Come again?
+- I said: Then twenty spaces.
+- Come again?
+- That was: Then twenty spaces.
+- Repeat that.
+- It was: Then twenty spaces.
+- Mhmm.
+- double quote space with space capital space quote
+- What kind of quote?
+- Double, comma space double quote space with space upper space case space
+  double quote comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. space with space big space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. end brace, and a new line.
+- Can you repeat that?
+- It was: double quote space with space capital space quote
+- What kind of quote?
+- Double, comma space double quote space with space upper space case space
+  double quote comma space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. space with space big space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. end brace, and a new line.
+- Keep going.
+- So we've got twenty spaces at the start.
+- Er, did you just say unworthy?
+- Nope, it was the.
+- Yup.
+- close parenthesis, space plus space uppers then new line.
+- Sorry, what?
+- It went: close parenthesis, space plus space uppers then new line.
+- Uh, what?
+- That was: close parenthesis, space plus space uppers then new line.
+- Can you repeat that?
+- close parenthesis, space plus space uppers then new line.
+- Keep going.
+- then a new line.
+- You what?
+- then a new line.
+- Can you repeat that?
+- then a new line.
+- Sorry, what?
+- I said: then a new line.
+- Come again?
+- That was: then a new line.
+- Keep going.
+- The next line begins with eight spaces.
+- Come again?
+- The next line begins with eight spaces.
+- Can you repeat that?
+- That was: The next line begins with eight spaces.
+- Repeat that.
+- The next line begins with eight spaces.
+- Hang on, was that prorate?
+- Nah, I said eight.
+- Uh, what?
+- It went: The next line begins with eight spaces.
+- Aha.
+- Word space equal sign space new underscore word and then a new line.
+- Got it.
+- then new line.
+- Yes.
+- Then eight spaces.
+- Keep going.
+- New underscore words dot append open round bracket, word ending parenthesis,
+  and then a new line.
+- Er, did you just say nor?
+- Nope, it was underscore.
+- Hang on, was that sdn?
+- No, I said then.
+- Got it.
+- then a new line.
+- Can you repeat that?
+- It was: then a new line.
+- Keep going.
+- OK so it begins with four spaces.
+- Say that again.
+- I said: OK so it begins with four spaces.
+- Yup.
+- Out space equals space double quote space space space double quote period join
+  opening parenthesis, new underscore words close round bracket, space plus
+  space choice open round bracket, starting brace, and then a new line.
+- You what?
+- Out space equals space double quote space space space double quote period join
+  opening parenthesis, new underscore words close round bracket, space plus
+  space choice open round bracket, starting brace, and then a new line.
+- Carry on.
+- Then eight spaces.
+- Did you say aydt?
+- Nope, it was eight.
+- Mhmm.
+- double quote space and space a space new space line double quote comma then a
+  new line.
+- Yes.
+- The next line begins with eight spaces.
+- You what?
+- The next line begins with eight spaces.
+- Sorry, what?
+- The next line begins with eight spaces.
+- Mhmm.
+- double quote space then space a space new space line double quote comma then a
+  new line.
+- Come again?
+- It was: double quote space then space a space new space line double quote
+  comma then a new line.
+- Repeat that.
+- That was: double quote space then space a space new space line double quote
+  comma then a new line.
+- Er, did you just say aeroperu?
+- Nah, it was new.
+- Carry on.
+- Then eight spaces.
+- Can you repeat that?
+- It went: Then eight spaces.
+- Carry on.
+- double quote space then space new space line quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Sorry, what?
+- I said: double quote space then space new space line quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Say that again.
+- I said: double quote space then space new space line quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- You what?
+- That was: double quote space then space new space line quote
+- What kind of quote?
+- Double quote, comma and then a new line.
+- Carry on.
+- So we've got eight spaces at the start.
+- Did you say mott?
+- Nah, that was got.
+- Uh, what?
+- I said: So we've got eight spaces at the start.
+- Come again?
+- It went: So we've got eight spaces at the start.
+- Mhmm.
+- quote
+- What kind of quote?
+- Double, space and space then space a space new space line double quote closing
+  curly bracket, ending parenthesis, and then a new line.
+- Sorry, what?
+- quote
+- What kind of quote?
+- Double, space and space then space a space new space line double quote closing
+  curly bracket, ending parenthesis, and then a new line.
+- Carry on.
+- and then a new line.
+- Can you repeat that?
+- That was: and then a new line.
+- Carry on.
+- OK so it begins with four spaces.
+- Carry on.
+- Out space equals space remove underscore duplicate underscore spaces open
+  parenthesis, out closing parenthesis, then a new line.
+- Mhmm.
+- four spaces.
+- You what?
+- I said: four spaces.
+- Can you repeat that?
+- I said: four spaces.
+- Say that again.
+- It was: four spaces.
+- Yup.
+- Out space equals sign space upcase underscore first underscore letter open
+  round bracket, out closing parenthesis, then a new line.
+- Come again?
+- It went: Out space equals sign space upcase underscore first underscore letter
+  open round bracket, out closing parenthesis, then a new line.
+- Aha.
+- Then four spaces.
+- Come again?
+- I said: Then four spaces.
+- Keep going.
+- Out space equals space fullstop underscore at underscore end opening round
+  bracket, out ending parenthesis, and a new line.
+- Er, did you just say redoubt?
+- Nah, it was out.
+- Say that again.
+- It went: Out space equals space fullstop underscore at underscore end opening
+  round bracket, out ending parenthesis, and a new line.
+- Aha.
+- OK so it begins with four spaces.
+- You what?
+- That was: OK so it begins with four spaces.
+- Can you repeat that?
+- That was: OK so it begins with four spaces.
+- Keep going.
+- Out space equal space double quote dash space double quote space plus space
+  out period lstrip starting parenthesis, double quote space quote
+- What kind of quote?
+- A double quote, close parenthesis, and a new line.
+- Say that again.
+- It went: Out space equal space double quote dash space double quote space plus
+  space out period lstrip starting parenthesis, double quote space quote
+- What kind of quote?
+- A double quote, close parenthesis, and a new line.
+- Can you repeat that?
+- That was: Out space equal space double quote dash space double quote space
+  plus space out period lstrip starting parenthesis, double quote space quote
+- What kind of quote?
+- A double quote, close parenthesis, and a new line.
+- Uh, what?
+- That was: Out space equal space double quote dash space double quote space
+  plus space out period lstrip starting parenthesis, double quote space quote
+- What kind of quote?
+- A double quote, close parenthesis, and a new line.
+- Aha.
+- then a new line.
+- Come again?
+- It went: then a new line.
+- Can you repeat that?
+- That was: then a new line.
+- Did you say catolica?
+- Nah, I said a.
+- Hang on, was that stephana?
+- Nah, I said a.
+- Sorry, what?
+- I said: then a new line.
+- Can you repeat that?
+- I said: then a new line.
+- Say that again.
+- That was: then a new line.
+- Yes.
+- Then four spaces.
+- Sorry, missed that bit.
+- That was: Then four spaces.
+- Yes.
+- Print underscore it open parenthesis, out closing round bracket, then a new
+  line.
+- Alright.
+- then a new line.
+- Hang on, was that antenne?
+- No, that was then.
+- Carry on.
+- The next line begins with four spaces.
+- Say that again.
+- It was: The next line begins with four spaces.
+- Aha.
+- You underscore what starting round bracket, out closing round bracket, then a
+  new line.
+- Say that again.
+- You underscore what starting round bracket, out closing round bracket, then a
+  new line.
+- Can you repeat that?
+- I said: You underscore what starting round bracket, out closing round bracket,
+  then a new line.
+- Carry on.
+- The next line begins with four spaces.
+- Say that again.
+- I said: The next line begins with four spaces.
+- Er, did you just say armentor?
+- Nah, it was four.
+- You what?
+- The next line begins with four spaces.
+- Come again?
+- It went: The next line begins with four spaces.
+- Er, did you just say supine?
+- No, that was line.
+- Can you repeat that?
+- It went: The next line begins with four spaces.
+- You what?
+- It went: The next line begins with four spaces.
+- Mhmm.
+- If space out colon and then a new line.
+- Can you repeat that?
+- I said: If space out colon and then a new line.
+- Er, did you just say vigna?
+- No, I said a.
+- Aha.
+- Then eight spaces.
+- Did you say interrelate?
+- Nope, that was eight.
+- Yes.
+- Print opening round bracket, choice opening parenthesis, GOT underscore IT end
+  round bracket, end round bracket, with big G, O, T, I and T, then a new line.
+- Yup.
+- and then a new line.
+- Hang on, was that hougland?
+- Nope, it was and.
+- Say that again.
+- I said: and then a new line.
+- Got it.
+- and a new line.
+- Er, did you just say mailloux?
+- Nah, that was new.
+- Got it.
+- Def space do underscore call open round bracket, lines end round bracket,
+  colon then new line.
+- Got it.
+- OK so it begins with four spaces.
+- You what?
+- OK so it begins with four spaces.
+- Sorry, missed that bit.
+- OK so it begins with four spaces.
+- Got it.
+- For space line space in space lines colon and a new line.
+- You what?
+- I said: For space line space in space lines colon and a new line.
+- Yes.
+- So we've got eight spaces at the start.
+- Sorry, missed that bit.
+- I said: So we've got eight spaces at the start.
+- Aha.
+- Do underscore line starting parenthesis, line close parenthesis, then a new
+  line.
+- Er, did you just say engross?
+- Nah, it was close.
+- Come again?
+- That was: Do underscore line starting parenthesis, line close parenthesis,
+  then a new line.
+- Did you say smarting?
+- No, that was starting.
+- Come again?
+- That was: Do underscore line starting parenthesis, line close parenthesis,
+  then a new line.
+- Mhmm.
+- and a new line.
+- Alright.
+- and a new line.
+- Hang on, was that zue?
+- Nope, I said new.
+- Say that again.
+- I said: and a new line.
+- Alright.
+- If space underscore underscore name underscore underscore space equal sign
+  equals space quote
+- What kind of quote?
+- Double, underscore underscore main underscore underscore quote
+- What kind of quote?
+- Double quote, colon then a new line.
+- Whas that unlined?
+- Nah, it was kind.
+- Can you repeat that?
+- If space underscore underscore name underscore underscore space equal sign
+  equals space quote
+- What kind of quote?
+- Double, underscore underscore main underscore underscore quote
+- What kind of quote?
+- Double quote, colon then a new line.
+- Sorry, what?
+- I said: If space underscore underscore name underscore underscore space equal
+  sign equals space quote
+- What kind of quote?
+- Double, underscore underscore main underscore underscore quote
+- What kind of quote?
+- Double quote, colon then a new line.
+- Alright.
+- Then four spaces.
+- Yes.
+- Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Did you say sven?
+- Nah, that was then.
+- You what?
+- Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Can you repeat that?
+- It was: Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Can you repeat that?
+- Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Sorry, missed that bit.
+- That was: Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Can you repeat that?
+- I said: Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Say that again.
+- It was: Parser space equal sign space argparse period ArgumentParser opening
+  parenthesis, with capital A and P, then a new line.
+- Alright.
+- eight spaces.
+- Say that again.
+- It was: eight spaces.
+- Got it.
+- Description equal quote
+- What kind of quote?
+- Double quote, Generate with capital G space a space dialogue space of space a
+  space program space listing space read space out space over space quote
+- What kind of quote?
+- Double, and a new line.
+- Er, did you just say chace?
+- No, that was space.
+- Mhmm.
+- Then twenty spaces.
+- Sorry, what?
+- That was: Then twenty spaces.
+- Can you repeat that?
+- That was: Then twenty spaces.
+- Alright.
+- quote
+- What kind of quote?
+- A double quote, the space telephone period double quote comma and then a new
+  line.
+- Hang on, was that remote?
+- Nah, I said quote.
+- Yes.
+- So we've got eight spaces at the start.
+- Keep going.
+- Formatter underscore class equals sign argparse fullstop
+  ArgumentDefaultsHelpFormatter ending round bracket, with upper case A, D, H
+  and F, and then a new line.
+- Repeat that.
+- It went: Formatter underscore class equals sign argparse fullstop
+  ArgumentDefaultsHelpFormatter ending round bracket, with upper case A, D, H
+  and F, and then a new line.
+- Can you repeat that?
+- It was: Formatter underscore class equals sign argparse fullstop
+  ArgumentDefaultsHelpFormatter ending round bracket, with upper case A, D, H
+  and F, and then a new line.
+- Sorry, missed that bit.
+- That was: Formatter underscore class equals sign argparse fullstop
+  ArgumentDefaultsHelpFormatter ending round bracket, with upper case A, D, H
+  and F, and then a new line.
+- Uh, what?
+- Formatter underscore class equals sign argparse fullstop
+  ArgumentDefaultsHelpFormatter ending round bracket, with upper case A, D, H
+  and F, and then a new line.
+- Yup.
+- four spaces.
+- Mhmm.
+- Parser period add underscore argument opening parenthesis, then new line.
+- Sorry, missed that bit.
+- It was: Parser period add underscore argument opening parenthesis, then new
+  line.
+- Repeat that.
+- That was: Parser period add underscore argument opening parenthesis, then new
+  line.
+- Uh, what?
+- I said: Parser period add underscore argument opening parenthesis, then new
+  line.
+- Did you say .period?
+- Nah, I said period.
+- Yup.
+- The next line begins with eight spaces.
+- Say that again.
+- The next line begins with eight spaces.
+- Aha.
+- quote
+- What kind of quote?
+- A single quote, hyphen i single quote comma space quote
+- What kind of quote?
+- Single quote, dash hyphen infile quote
+- What kind of quote?
+- Single, comma space default equal quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. phonecall period py double quote comma and then a new
+  line.
+- Er, did you just say frasch?
+- Nope, I said dash.
+- You what?
+- It was: quote
+- What kind of quote?
+- A single quote, hyphen i single quote comma space quote
+- What kind of quote?
+- Single quote, dash hyphen infile quote
+- What kind of quote?
+- Single, comma space default equal quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. phonecall period py double quote comma and then a new
+  line.
+- Got it.
+- So we've got eight spaces at the start.
+- Say that again.
+- That was: So we've got eight spaces at the start.
+- Er, did you just say strait?
+- Nope, it was eight.
+- Aha.
+- Help equals double quote Input with big I space file double quote close
+  parenthesis, then new line.
+- Did you say embrace?
+- No, it was space.
+- Er, did you just say redouble?
+- No, it was double.
+- Got it.
+- Then four spaces.
+- Sorry, missed that bit.
+- I said: Then four spaces.
+- You what?
+- That was: Then four spaces.
+- Yes.
+- Args space equals sign space parser period parse underscore args opening round
+  bracket, closing round bracket, then new line.
+- Can you repeat that?
+- I said: Args space equals sign space parser period parse underscore args
+  opening round bracket, closing round bracket, then new line.
+- Mhmm.
+- and a new line.
+- Did you say stew?
+- Nope, it was new.
+- Whas that thew?
+- No, it was new.
+- Got it.
+- four spaces.
+- Say that again.
+- I said: four spaces.
+- Aha.
+- hash symbol, space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. Unit with big U space tests quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then new line.
+- Can you repeat that?
+- That was: hash symbol, space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. Unit with big U space tests quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then new line.
+- Come again?
+- It went: hash symbol, space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. Unit with big U space tests quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then new line.
+- Repeat that.
+- It went: hash symbol, space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. Unit with big U space tests quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then new line.
+- Did you say crests?
+- Nope, that was tests.
+- Repeat that.
+- I said: hash symbol, space quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. Unit with big U space tests quote
+- What kind of quote?
+- A double quote.
+- Right, remember to tell me which one.
+- Right, yeah, sorry. then new line.
+- Mhmm.
+- four spaces.
+- Got it.
+- Assert space upper underscore case underscore letters start round bracket,
+  quote
+- What kind of quote?
+- Double, abc quote
+- What kind of quote?
+- Double, closing parenthesis, space is space None with upper case N then new
+  line.
+- Carry on.
+- four spaces.
+- Whas that sedor?
+- Nope, I said four.
+- Carry on.
+- Assert space upper underscore case underscore letters open round bracket,
+  quote
+- What kind of quote?
+- Double, pound symbol, double quote end parenthesis, space is space None with
+  capital N and then a new line.
+- Did you say koeppen?
+- Nope, I said open.
+- Hang on, was that opined?
+- No, that was kind.
+- Yup.
+- So we've got four spaces at the start.
+- You what?
+- It was: So we've got four spaces at the start.
+- Mhmm.
+- Assert space upper underscore case underscore letters start round bracket,
+  double quote hashtag.
+- Don't call it a hashtag.
+- OK. space abc double quote close round bracket, space is space None with big N
+  then a new line.
+- Uh, what?
+- That was: Assert space upper underscore case underscore letters start round
+  bracket, double quote hashtag.
+- Don't call it a hashtag.
+- OK. space abc double quote close round bracket, space is space None with big N
+  then a new line.
+- Sorry, missed that bit.
+- It was: Assert space upper underscore case underscore letters start round
+  bracket, double quote hashtag.
+- Don't call it a hashtag.
+- OK. space abc double quote close round bracket, space is space None with big N
+  then a new line.
+- Er, did you just say resound?
+- No, that was round.
+- Aha.
+- So we've got four spaces at the start.
+- Say that again.
+- So we've got four spaces at the start.
+- Keep going.
+- Assert space upper underscore case underscore letters open parenthesis, quote
+- What kind of quote?
+- A double quote, Abc double quote end parenthesis, with big A space equals
+  equal space then capitalised quote
+- what kind of quote?
+- a double quote, a quote
+- what kind of quote?
+- double quote, then a new line.
+- Uh, what?
+- Assert space upper underscore case underscore letters open parenthesis, quote
+- What kind of quote?
+- A double quote, Abc double quote end parenthesis, with big A space equals
+  equal space then capitalised quote
+- what kind of quote?
+- a double quote, a quote
+- what kind of quote?
+- double quote, then a new line.
+- Keep going.
+- So we've got four spaces at the start.
+- You what?
+- That was: So we've got four spaces at the start.
+- Aha.
+- Assert space upper underscore case underscore letters starting round bracket,
+  double quote ABc quote
+- What kind of quote?
+- Double quote, closing round bracket, with upper case A and B, space equals
+  equals space then capitalised double quote a space and space b comma all in
+  caps space quote
+- What kind of quote?
+- A double quote, then new line.
+- Hang on, was that enshrined?
+- Nope, that was kind.
+- Did you say farting?
+- No, it was starting.
+- Repeat that.
+- I said: Assert space upper underscore case underscore letters starting round
+  bracket, double quote ABc quote
+- What kind of quote?
+- Double quote, closing round bracket, with upper case A and B, space equals
+  equals space then capitalised double quote a space and space b comma all in
+  caps space quote
+- What kind of quote?
+- A double quote, then new line.
+- Aha.
+- OK so it begins with four spaces.
+- Hang on, was that frith?
+- No, that was with.
+- Aha.
+- Assert space upper underscore case underscore letters starting parenthesis,
+  quote
+- What kind of quote?
+- Double quote, ABC double quote ending parenthesis, with big A, B and C, space
+  equals equals space quote
+- what kind of quote?
+- a double quote, a comma all capitals space then upper case b space and space
+  then capitalised c comma space double quote then a new line.
+- Did you say licensee?
+- Nope, it was c.
+- Keep going.
+- and a new line.
+- Repeat that.
+- I said: and a new line.
+- Yes.
+- OK so it begins with four spaces.
+- Sorry, missed that bit.
+- It went: OK so it begins with four spaces.
+- Say that again.
+- That was: OK so it begins with four spaces.
+- Carry on.
+- P space equal sign space inflect period engine opening round bracket, ending
+  round bracket, and then a new line.
+- Say that again.
+- It was: P space equal sign space inflect period engine opening round bracket,
+  ending round bracket, and then a new line.
+- Got it.
+- and then a new line.
+- Er, did you just say helaba?
+- Nah, I said a.
+- Uh, what?
+- I said: and then a new line.
+- Aha.
+- OK so it begins with four spaces.
+- Uh, what?
+- It went: OK so it begins with four spaces.
+- Aha.
+- Lines space equal sign space load underscore file starting round bracket, args
+  period infile close round bracket, and a new line.
+- Whas that hevia?
+- No, it was a.
+- Keep going.
+- hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- Uh, what?
+- That was: hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- Er, did you just say krol?
+- No, it was call.
+- Sorry, missed that bit.
+- It went: hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- Sorry, what?
+- It was: hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- Say that again.
+- hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- You what?
+- It went: hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- Did you say cayce?
+- Nope, it was space.
+- Can you repeat that?
+- That was: hashtag.
+- Don't call it a hashtag.
+- OK. space space space space space print opening parenthesis, len start
+  parenthesis, lines closing round bracket, end round bracket, and then a new
+  line.
+- Got it.
+- hash symbol, space space space space space print open round bracket, lines end
+  round bracket, and a new line.
+- Sorry, what?
+- It went: hash symbol, space space space space space print open round bracket,
+  lines end round bracket, and a new line.
+- Whas that chase?
+- No, it was space.
+- Whas that sluka?
+- Nope, it was a.
+- Come again?
+- It went: hash symbol, space space space space space print open round bracket,
+  lines end round bracket, and a new line.
+- Sorry, what?
+- It went: hash symbol, space space space space space print open round bracket,
+  lines end round bracket, and a new line.
+- Keep going.
+- four spaces.
+- Come again?
+- four spaces.
+- Whas that bator?
+- Nope, that was four.
+- Sorry, what?
+- That was: four spaces.
+- Come again?
+- I said: four spaces.
+- Got it.
+- Start underscore call start round bracket, closing parenthesis, and a new
+  line.
+- Come again?
+- Start underscore call start round bracket, closing parenthesis, and a new
+  line.
+- Alright.
+- The next line begins with four spaces.
+- Come again?
+- It was: The next line begins with four spaces.
+- Er, did you just say b'rith?
+- Nah, I said with.
+- Alright.
+- Do underscore call opening round bracket, lines closing round bracket, then
+  new line.
+- Did you say (paren?
+- Nah, it was then.
+- Mhmm.
+- OK so it begins with four spaces.
+- Keep going.
+- End underscore call open round bracket, ending round bracket, and then a new
+  line.
+- Repeat that.
+- It went: End underscore call open round bracket, ending round bracket, and
+  then a new line.
+- Carry on.
+- then new line.
+- Repeat that.
+- then new line.
+- Alright.
+- hash, space End with capital E space of space file and a new line.
+- You what?
+- It went: hash, space End with capital E space of space file and a new line.
+- Yes.
+- OK, that's the end.
+- That's it?
+- Yup.
+- All of it?
+- Yes.
+- Phew, what a relief! I'm not going to do that again!
+- Yeah, me neither.
+- Alright, thanks again, see you later Dan.
+- Cheers Bob, bye then!
+- But I might call you back if it doesn't compile. Is that ok Dan? Dan...??
+  Dan?! Dan! DAN!
+
