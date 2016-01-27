@@ -1,5 +1,7 @@
 # Phone It In
 
+**New!** Get your [audiobooks here](https://hugovk.github.io/NaNoGenMo-2015/phonecall/audiobook/)!
+
 Imagine your network is down but you need that program.
 
 Now imagine a tedious conversation of someone having to read out that listing over the phone.
@@ -16,11 +18,13 @@ Here's the [source code](https://github.com/hugovk/mucletters/blob/gh-pages/mucl
 
  * [txt](phoned-mucletters-wrapped.txt)
  * [pdf](https://hugovk.github.io/NaNoGenMo-2015/phonecall/phoned-mucletters-wrapped.pdf)
+ * [mp3](https://hugovk.github.io/NaNoGenMo-2015/phonecall/audiobook/phoned-mucletters.mp3)
 
 Here's the program itself put through itself; 37,989 words:
 
  * [txt](phoned-phonecall-wrapped.txt)
  * [pdf](https://hugovk.github.io/NaNoGenMo-2015/phonecall/phoned-phonecall-wrapped.pdf)
+ * [mp3](https://hugovk.github.io/NaNoGenMo-2015/phonecall/audiobook/phoned-phonecall.mp3)
 
 Source code:
  * [phonecall.py](phonecall.py)
